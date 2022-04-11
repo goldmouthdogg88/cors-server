@@ -27,7 +27,7 @@ app.get("/", cors(), (req, res) => {
 });
 
 app.post("/web_history", cors(), (req, res) => {
-  console.log("Got some data!");
+  console.log(req.body);
   res.send("Got a POST cors() request");
 
   //   req.json({ msg: "This is CORS-enabled for a single route." });
