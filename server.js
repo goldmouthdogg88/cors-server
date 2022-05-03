@@ -6,6 +6,13 @@ const app = express();
 const port = 9000;
 const fs = require("fs");
 
+app.use(express.json());
+app.use(
+  express.urlencoded({
+    extended: true,
+  })
+);
+
 // var key = fs.readFileSync(__dirname + "/../certs/selfsigned.key");
 // var cert = fs.readFileSync(__dirname + "/../certs/selfsigned.crt");
 
@@ -17,20 +24,21 @@ var options = {
   cert: cert,
 };
 
-// app.get("/", (req, res) => {
-//   res.send("Hello World!");
-// });
+app.get("/", (req, res) => {
+  res.send("Hello World!");
+});
 
-app.get("/", cors(), (req, res) => {
-  res.send("Got a GET cors() request");
+app.post("/json", cors(), (req, res) => {
+  res.send(req.body);
+  res.send(req.body);
   //   req.json({ msg: "This is CORS-enabled for a single route." });
 });
 
 app.post("/web_history", cors(), (req, res) => {
   console.log(req.body);
-  res.send("Got a POST cors() request");
+  res.send("request done...");
 
-  //   req.json({ msg: "This is CORS-enabled for a single route." });
+  // res.json({ msg: "This is CORS-enabled for a single route." });
 });
 
 var server = https.createServer(options, app);
