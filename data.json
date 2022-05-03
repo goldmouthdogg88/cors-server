@@ -1,0 +1,51 @@
+[
+    {
+        "title": "Wikipedia, the free encyclopedia",
+        "url": "https://en.wikipedia.org/wiki/Main_Page",
+        "date": "2022-05-03T20:26:05.889Z"
+    },
+    {
+        "title": "Google",
+        "url": "https://www.google.com/",
+        "date": "2022-05-03T20:32:54.932Z"
+    },
+    {
+        "title": "i think it's working - Google Search",
+        "url": "https://www.google.com/search?q=i think it's working",
+        "sxsrf": "ALiCzsa9PTa74dklEz1M7mr2e5f3liyAXg:1651609974618",
+        "source": "hp",
+        "ei": "dpFxYvbOIvSP9PwPktO96Ac",
+        "iflsig": "AJiK0e8AAAAAYnGfhqR2aKk5QGbIITgc4TlNJC0tdrka",
+        "oq": "i thin",
+        "gs_lcp": "Cgdnd3Mtd2l6EAMYADIECCMQJzIICC4Q1AIQkQIyCAguENQCEJECMgUILhCABDIHCC4Q1AIQQzIFCAAQgAQyBwguENQCEEMyBQguEIAEMggILhCABBDUAjIFCAAQgAQ6BwgjEOoCECc6CwgAEIAEELEDEIMBOgsILhCABBCxAxCDAToOCC4QgAQQsQMQxwEQowI6CwguEIAEEMcBENEDOgsILhCxAxCDARDUAjoKCAAQsQMQgwEQQzoLCC4QgAQQsQMQ1AI6CAgAELEDEIMBOgsILhCABBDHARCvAToKCC4QsQMQ1AIQQzoECC4QQzoECAAQQzoICC4QgAQQsQM6CAguELEDENQCUM8FWN8JYO8PaAFwAHgAgAGZAYgBqASSAQM0LjKYAQCgAQGwAQo",
+        "sclient": "gws-wiz",
+        "date": "2022-05-03T20:32:59.839Z"
+    },
+    {
+        "title": "in fact it is - Google Search",
+        "url": "https://www.google.com/search?q=in fact it is",
+        "sxsrf": "ALiCzsbmY9ty-0VohuYPbs9QUDMJPD1Xqw:1651609978962",
+        "ei": "epFxYqC1OtfKtQbC0KLwDw",
+        "ved": "0ahUKEwig2unQlsT3AhVXZc0KHUKoCP4Q4dUDCA8",
+        "uact": "5",
+        "oq": "in fact it is",
+        "gs_lcp": "Cgdnd3Mtd2l6EAMyBQgAEIAEMgUIABCABDIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMggIABAWEAoQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjoHCCMQsAMQJzoHCAAQRxCwAzoECCMQJzoLCAAQgAQQsQMQgwE6CAguEIAEENQCOgsILhCABBCxAxCDAToRCC4QgAQQsQMQgwEQxwEQ0QM6DgguEIAEELEDEMcBEKMCOgQIABBDOgoIABCxAxCDARBDOgsILhDHARCvARCRAjoFCAAQkQI6CAguENQCEJECOg4ILhCABBCxAxCDARDUAjoECAAQAzoICC4QgAQQsQM6BAguEEM6BQguEIAEOggIABCxAxCDAToHCAAQsQMQQzoLCC4QgAQQxwEQrwE6CAgAEIAEELEDOgUIABCGA0oECEEYAEoECEYYAFC_CVjOGGCOGmgDcAF4AYAB6AGIAdgLkgEFNy41LjGYAQCgAQHIAQnAAQE",
+        "sclient": "gws-wiz",
+        "date": "2022-05-03T20:33:06.628Z"
+    },
+    {
+        "title": "LF will be replaced by CRLF in data.json - Google Search",
+        "url": "https://www.google.com/search?q=LF will be replaced by CRLF in data.json",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "oq": "LF will be replaced by CRLF in data.json",
+        "aqs": "chrome..69i57j33i160.272j0j1",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-03T20:34:03.708Z"
+    },
+    {
+        "title": "LF will be replaced by CRLF in git - What is that and is it important? - Stack Overflow",
+        "url": "https://stackoverflow.com/questions/5834014/lf-will-be-replaced-by-crlf-in-git-what-is-that-and-is-it-important",
+        "date": "2022-05-03T20:34:05.055Z"
+    }
+]

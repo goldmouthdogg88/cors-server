@@ -37,9 +37,24 @@ app.post("/json", cors(), (req, res) => {
 app.post("/web_history", cors(), (req, res) => {
   console.log(req.body);
   // read resources/resources.json
-  // var data = fs.readFile('/resources/resources.json', 'utf8', (err, data) => {
-  //   return data;
-  // })
+
+  let buffer, fileName;
+
+  fileName = "./data.json";
+  buffer = fs.readFileSync(fileName);
+  bufferString = buffer.toString();
+  bufferObject = JSON.parse(bufferString);
+
+  console.log(bufferObject);
+
+  bufferObject.push(req.body);
+  var jsonBuffer = JSON.stringify(bufferObject, null, 4);
+
+  fs.writeFile("data.json", jsonBuffer, (err) => {
+    if (err) throw err;
+    console.log("File written sucessfully");
+  });
+
   // write resources/resources.json
   res.send("request done...");
 
