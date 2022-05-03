@@ -36,6 +36,11 @@ app.post("/json", cors(), (req, res) => {
 
 app.post("/web_history", cors(), (req, res) => {
   console.log(req.body);
+  // read resources/resources.json
+  // var data = fs.readFile('/resources/resources.json', 'utf8', (err, data) => {
+  //   return data;
+  // })
+  // write resources/resources.json
   res.send("request done...");
 
   // res.json({ msg: "This is CORS-enabled for a single route." });

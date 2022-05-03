@@ -1,5 +1,12 @@
 # cors-server
 
+Tue, May 3, 2022 12:00:19 AM
+
+https://www.section.io/engineering-education/how-to-get-ssl-https-for-localhost/
+
+https://stackoverflow.com/questions/47700269/google-chrome-localhost-neterr-cert-authority-invalid
+chrome://flags/#allow-insecure-localhost
+
 use this link chrome://extensions/ to load the companion extension that goes along with the server.
 
 https://stackoverflow.com/questions/11744975/enabling-https-on-express-js
