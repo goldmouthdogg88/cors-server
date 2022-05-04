@@ -1,5 +1,29 @@
 # cors-server
 
+Tue, May 3, 2022 7:47:10 PM
+
+- I also want to be able to highlight my text
+- add selected text to dictionary
+
+I have another idea for a feature, so I want a way to mark the articles as good or bad
+definately want to have an HTMl element.
+
+Tue, May 3, 2022 4:37:27 PM
+
+I just found a new feature that needs to be added.
+
+This can be found on https://vitejs.dev/guide/#overview
+
+it doesn't record the data when it changes from
+
+https://vitejs.dev/
+https://vitejs.dev/guide/
+https://vitejs.dev/guide/#overview
+
+So the solution is to create a handler that watches for changes in window.location.href. The current implementation only handles for cases of window reload.
+
+Maybe I use the background
+
 Tue, May 3, 2022 12:00:19 AM
 
 https://www.section.io/engineering-education/how-to-get-ssl-https-for-localhost/

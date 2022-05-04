@@ -47,5 +47,1783 @@
         "title": "LF will be replaced by CRLF in git - What is that and is it important? - Stack Overflow",
         "url": "https://stackoverflow.com/questions/5834014/lf-will-be-replaced-by-crlf-in-git-what-is-that-and-is-it-important",
         "date": "2022-05-03T20:34:05.055Z"
+    },
+    {
+        "title": "Git Credential Manager - Authentication Succeeded",
+        "url": "http://localhost:50863/?code=3ac7b3ab7d07136023ff",
+        "state": "289ab2902f294ea5a109d76832d7d907",
+        "date": "2022-05-03T20:34:42.000Z"
+    },
+    {
+        "title": "freeCodeCamp.org Code Radio",
+        "url": "https://coderadio.freecodecamp.org/",
+        "date": "2022-05-03T20:35:17.519Z"
+    },
+    {
+        "title": "Vite - Google Search",
+        "url": "https://www.google.com/search?q=Vite",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-03T20:36:36.733Z"
+    },
+    {
+        "title": "404 | Vite",
+        "url": "https://vitejs.dev/",
+        "date": "2022-05-03T20:36:39.507Z"
+    },
+    {
+        "title": "window.onload - Google Search",
+        "url": "https://www.google.com/search?q=window.onload",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "oq": "window.onload",
+        "aqs": "chrome..69i57j0i512l9.4128j0j1",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-03T20:40:38.530Z"
+    },
+    {
+        "title": "window onload chrome extension - Google Search",
+        "url": "https://www.google.com/search?q=window onload chrome extension",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "sxsrf": "ALiCzsawmXtvjkKeGXRspirWGC_BAsaOmQ:1651610437634",
+        "ei": "RZNxYtOuJq6KptQPlMasuAc",
+        "oq": "window.onload chrome ",
+        "gs_lcp": "Cgdnd3Mtd2l6EAMYATIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgUIABCGAzIFCAAQhgM6CAgAELADEJECOg4IABCABBCxAxCDARCwAzoICAAQgAQQsAM6BQgAEJECOgUIABCABEoECEEYAUoECEYYAFD3B1iFFWC2KmgBcAB4AIABZIgBkwWSAQM3LjGYAQCgAQHIAQrAAQE",
+        "sclient": "gws-wiz",
+        "date": "2022-05-03T20:40:49.215Z"
+    },
+    {
+        "title": "Problem with window.onload() in Google Chrome extensions : javascript",
+        "url": "https://www.reddit.com/r/javascript/comments/23v0p0/problem_with_windowonload_in_google_chrome/",
+        "date": "2022-05-03T20:41:02.340Z"
+    },
+    {
+        "title": "Extension to call javascript on window load",
+        "url": "https://groups.google.com/a/chromium.org/g/chromium-extensions/c/9bsbgra9QgE?pli=1",
+        "date": "2022-05-03T20:41:08.025Z"
+    },
+    {
+        "title": "Google",
+        "url": "https://www.google.com/",
+        "date": "2022-05-03T20:42:54.775Z"
+    },
+    {
+        "title": "Google",
+        "url": "https://www.google.com/",
+        "date": "2022-05-03T20:43:26.459Z"
+    },
+    {
+        "title": "Google",
+        "url": "https://www.google.com/",
+        "date": "2022-05-03T20:44:01.044Z"
+    },
+    {
+        "title": "chrome extension background - Google Search",
+        "url": "https://www.google.com/search?q=chrome extension background",
+        "sxsrf": "ALiCzsaM2lMFzuqlVuZm6ZHz34jFjprHPw:1651610640634",
+        "source": "hp",
+        "ei": "EJRxYpTXI9CPtAbWp5W4Cw",
+        "iflsig": "AJiK0e8AAAAAYnGiIEoIHHL4I2vVAzKuR3AO_cUr-YNF",
+        "oq": "chrome extension backgro",
+        "gs_lcp": "Cgdnd3Mtd2l6EAMYADIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BwgjEOoCECc6BAgjECc6BAgAEEM6CwguEMcBEK8BEJECOggIABCABBCxAzoRCC4QgAQQsQMQgwEQxwEQ0QM6EQguEIAEELEDEIMBEMcBEKMCOgoIABCABBCHAhAUOgcIABCxAxBDOgoIABCxAxCDARBDOg0IABCABBCHAhCxAxAUOgsIABCABBCxAxCDAVDUBFjzGmCFQmgBcAB4AIABtwGIAZMOkgEEMjMuMZgBAKABAbABCg",
+        "sclient": "gws-wiz",
+        "date": "2022-05-03T20:44:38.307Z"
+    },
+    {
+        "title": "Manage events with background scripts - Chrome Developers",
+        "url": "https://developer.chrome.com/docs/extensions/mv2/background_pages/",
+        "date": "2022-05-03T20:44:41.452Z"
+    },
+    {
+        "title": "Welcome to Manifest V3 - Chrome Developers",
+        "url": "https://developer.chrome.com/docs/extensions/mv3/intro/",
+        "date": "2022-05-03T20:44:50.989Z"
+    },
+    {
+        "title": "Samples - Chrome Developers",
+        "url": "https://developer.chrome.com/docs/extensions/mv3/samples/",
+        "date": "2022-05-03T20:45:05.083Z"
+    },
+    {
+        "title": "GoogleChrome/chrome-extensions-samples: Chrome Extensions Samples",
+        "url": "https://github.com/GoogleChrome/chrome-extensions-samples",
+        "date": "2022-05-03T20:45:08.962Z"
+    },
+    {
+        "title": "?? - Google Search",
+        "url": "https://www.google.com/search?q=??",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-03T20:46:26.816Z"
+    },
+    {
+        "title": "?? javascript - Google Search",
+        "url": "https://www.google.com/search?q=?? javascript",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "sxsrf": "ALiCzsZWu8gDJ8LmwGpbQPGhjyABBM0B7Q:1651610786022",
+        "ei": "opRxYrOEAaynptQP29O3qAo",
+        "ved": "0ahUKEwiz3dTRmcT3AhWsk4kEHdvpDaUQ4dUDCA8",
+        "uact": "5",
+        "oq": "?? javascript",
+        "gs_lcp": "Cgdnd3Mtd2l6EAMyBAgjECcyBAgjECcyBAgjECcyBwgAELEDEEMyBAgAEEMyBwgAELEDEEMyBwgAELEDEEMyBwgAELEDEEMyBAgAEEMyBAgAEEM6BQgAEJECOgUILhCRAjoLCC4QgAQQsQMQgwE6EQguEIAEELEDEIMBEMcBEKMCOgUILhCABDoICC4QsQMQgwE6CwgAEIAEELEDEIMBOgQILhBDOgoIABCxAxCDARBDOggILhCABBCxAzoFCAAQgARKBAhBGAFKBAhGGABQiA9YyCNg1yRoBHAAeACAAZIBiAH5BpIBAzkuMpgBAKABAcABAQ",
+        "sclient": "gws-wiz",
+        "date": "2022-05-03T20:46:34.345Z"
+    },
+    {
+        "title": "javascript ?? operator - Google Search",
+        "url": "https://www.google.com/search?q=javascript ?? operator",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "sxsrf": "ALiCzsYTm2KBnp2giKWzx9GRpyFLlWrpPQ:1651610793281",
+        "ei": "qZRxYpfdEL_MptQPvpC6yAQ",
+        "ved": "0ahUKEwjX1Y_VmcT3AhU_pokEHT6IDkkQ4dUDCA8",
+        "uact": "5",
+        "oq": "javascript ?? operator",
+        "gs_lcp": "Cgdnd3Mtd2l6EAMyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEOgcIIxCwAxAnOgcIABBHELADOgcIIxDqAhAnOgQIIxAnOgQIABBDOgsILhCABBCxAxCDAToRCC4QgAQQsQMQgwEQxwEQowI6BwgAELEDEEM6CAguEIAEELEDOggIABCABBCxAzoICAAQsQMQkQI6BQgAEJECOgsIABCABBCxAxCDAToHCCMQsQIQJzoHCAAQsQMQCjoKCAAQsQMQgwEQCjoLCAAQsQMQgwEQkQI6DQgAEIAEEIcCELEDEBQ6CggAEIAEEIcCEBRKBAhBGABKBAhGGABQ8AxY3j9gzkBoBXABeAGAAa4BiAHTDJIBBDIxLjKYAQCgAQGwAQrIAQrAAQE",
+        "sclient": "gws-wiz",
+        "date": "2022-05-03T20:46:47.863Z"
+    },
+    {
+        "title": "Nullish coalescing operator (??) - JavaScript | MDN",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Nullish_coalescing_operator",
+        "date": "2022-05-03T20:46:52.406Z"
+    },
+    {
+        "title": "how to reload chrome extensions through console - Google Search",
+        "url": "https://www.google.com/search?q=how to reload chrome extensions through console",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "oq": "how to reload chrome extensions through ",
+        "aqs": "chrome.2.69i57j33i160l4j33i299j33i22i29i30l4.6383j0j1",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-03T20:48:13.624Z"
+    },
+    {
+        "title": "javascript - How do I auto-reload a Chrome extension I'm developing? - Stack Overflow",
+        "url": "https://stackoverflow.com/questions/2963260/how-do-i-auto-reload-a-chrome-extension-im-developing",
+        "date": "2022-05-03T20:48:16.670Z"
+    },
+    {
+        "title": "Chrome-Extension-Reloader/Chrome-Extension-Reloader.crx at master · Rob--W/Chrome-Extension-Reloader",
+        "url": "https://github.com/Rob--W/Chrome-Extension-Reloader/blob/master/Chrome-Extension-Reloader.crx",
+        "date": "2022-05-03T20:48:32.887Z"
+    },
+    {
+        "title": "Rob--W/Chrome-Extension-Reloader: Adds a button which reloads a selected Google Chrome extension on click.",
+        "url": "https://github.com/Rob--W/Chrome-Extension-Reloader",
+        "date": "2022-05-03T20:48:34.610Z"
+    },
+    {
+        "title": "atom download - Google Search",
+        "url": "https://www.google.com/search?q=atom download",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "oq": "atom download",
+        "aqs": "chrome..69i57j0i512l9.1744j0j1",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-03T20:50:53.594Z"
+    },
+    {
+        "title": "Installing Atom",
+        "url": "https://flight-manual.atom.io/getting-started/sections/installing-atom/",
+        "date": "2022-05-03T20:50:55.085Z"
+    },
+    {
+        "title": "Atom",
+        "url": "https://atom.io/",
+        "date": "2022-05-03T20:51:04.255Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/OqwGWN_j3",
+        "date": "2022-05-03T20:52:05.299Z"
+    },
+    {
+        "title": "How to detect dead code in a frontend project - LogRocket Blog",
+        "url": "https://blog.logrocket.com/how-detect-dead-code-frontend-project/",
+        "date": "2022-05-03T20:52:06.891Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/f4V2ri8-2",
+        "date": "2022-05-03T20:52:29.965Z"
+    },
+    {
+        "title": "How to Create a Habit System and Stay Motivated as a Developer",
+        "url": "https://www.freecodecamp.org/news/create-a-habit-system-and-stay-motivated-as-a-developer/",
+        "date": "2022-05-03T20:52:31.161Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/mSuzluOTr",
+        "date": "2022-05-03T20:52:39.618Z"
+    },
+    {
+        "title": "8 great new JavaScript language features in ES12 | InfoWorld",
+        "url": "https://www.infoworld.com/article/3658393/8-great-new-javascript-language-features-in-es12.html#tk.rss_all",
+        "date": "2022-05-03T20:52:43.806Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/1QYY0pqMO",
+        "date": "2022-05-03T20:52:49.272Z"
+    },
+    {
+        "title": "OpenRA/OpenRA: Open Source real-time strategy game engine for early Westwood games such as Command ",
+        " Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.": "",
+        "url": "https://github.com/OpenRA/OpenRA",
+        "date": "2022-05-03T20:52:50.230Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/TiabxA-yf",
+        "date": "2022-05-03T20:52:53.056Z"
+    },
+    {
+        "title": "5 Free Tools Creators Need to Know | The Startup",
+        "url": "https://medium.com/swlh/5-free-tools-creators-need-to-know-5c6c2b8530bd",
+        "date": "2022-05-03T20:52:57.111Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/gO9MNKvUB",
+        "date": "2022-05-03T20:53:08.824Z"
+    },
+    {
+        "title": "Modern, faster alternatives to ESLint - LogRocket Blog",
+        "url": "https://blog.logrocket.com/modern-faster-alternatives-eslint/",
+        "date": "2022-05-03T20:53:09.963Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/_z87_Z_Xl",
+        "date": "2022-05-03T20:53:36.814Z"
+    },
+    {
+        "title": "Software Developer vs Software Engineer - KDnuggets",
+        "url": "https://www.kdnuggets.com/2022/05/software-developer-software-engineer.html?utm_source=rss",
+        "utm_medium": "rss",
+        "utm_campaign": "software-developer-vs-software-engineer",
+        "date": "2022-05-03T20:53:38.056Z"
+    },
+    {
+        "title": "Software Developer vs Software Engineer - KDnuggets",
+        "url": "https://www.kdnuggets.com/2022/05/software-developer-software-engineer.html?utm_source=rss",
+        "utm_medium": "rss",
+        "utm_campaign": "software-developer-vs-software-engineer",
+        "date": "2022-05-03T20:53:38.226Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/1Bk9F5NUk",
+        "date": "2022-05-03T20:53:38.558Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/kLGr3iU3o",
+        "date": "2022-05-03T20:53:39.238Z"
+    },
+    {
+        "title": "Memoization in JavaScript",
+        "url": "https://parthasarma.hashnode.dev/memoization-in-javascript",
+        "date": "2022-05-03T20:53:40.429Z"
+    },
+    {
+        "title": "Exploring the ML Tooling Landscape (Part 1 of 3) | by Tom Martin | May, 2022 | Towards Data Science",
+        "url": "https://towardsdatascience.com/exploring-the-ml-tooling-landscape-part-1-of-3-53f8c39e6e4e",
+        "date": "2022-05-03T20:53:42.870Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/UtpcmN4Q0",
+        "date": "2022-05-03T20:54:08.712Z"
+    },
+    {
+        "title": "Introducing zq: an Easier (and Faster) Alternative to jq | Brim Data",
+        "url": "https://www.brimdata.io/blog/introducing-zq/",
+        "date": "2022-05-03T20:54:09.275Z"
+    },
+    {
+        "title": "Auth0 | OAuth2 and OpenID Connect: The Professional Guide",
+        "url": "https://auth0.com/resources/ebooks/oauth-openid-connect-professional-guide?utm_source=carbon",
+        "utm_medium": "cpc",
+        "utm_campaign": "carbon",
+        "utm_content": "auth0-oidc-handbook",
+        "date": "2022-05-03T20:54:34.837Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/Vbaf_lIpx",
+        "date": "2022-05-03T20:54:34.874Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/Hv3_B6SQY",
+        "date": "2022-05-03T20:54:36.883Z"
+    },
+    {
+        "title": "The Most Undervalued Skill of Programmers",
+        "url": "https://rubenscheedler.hashnode.dev/the-most-undervalued-skill-of-programmers",
+        "date": "2022-05-03T20:54:38.022Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/XGQELR20f",
+        "date": "2022-05-03T20:54:38.969Z"
+    },
+    {
+        "title": "Learn Javascript EventListener while traveling in the desert | by Matteo Tasinato | Apr, 2022 | Level Up Coding",
+        "url": "https://levelup.gitconnected.com/becoming-a-js-eventlistener-master-while-traveling-in-the-dom-desert-e6f93226064e",
+        "date": "2022-05-03T20:54:39.701Z"
+    },
+    {
+        "title": "Microservices Architecture | Ultimate Guide ",
+        " Tutorial": "",
+        "url": "https://www.containiq.com/post/microservices-architecture-ultimate-guide-tutorial",
+        "date": "2022-05-03T20:54:41.250Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/C3u6CKK28",
+        "date": "2022-05-03T20:54:44.540Z"
+    },
+    {
+        "title": "Git commands",
+        "url": "https://sonalirajput.hashnode.dev/usefull-git-commands",
+        "date": "2022-05-03T20:54:45.554Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/55RP56GUU",
+        "date": "2022-05-03T20:54:55.684Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/RtIQooDKZ",
+        "date": "2022-05-03T20:54:57.657Z"
+    },
+    {
+        "title": "ADVICE to my younger self as a Software Developer - CodeOpinion",
+        "url": "https://codeopinion.com/advice-to-my-younger-self-as-a-software-developer/",
+        "date": "2022-05-03T20:54:58.839Z"
+    },
+    {
+        "title": "How do I solve complex problems?. Before writing a line of code (if the… | by Bruno Kiafuka | Apr, 2022 | Dev Genius",
+        "url": "https://blog.devgenius.io/how-do-i-solve-complex-problems-728cdcefdedd",
+        "date": "2022-05-03T20:54:59.605Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/wQXBhIL8W",
+        "date": "2022-05-03T20:55:01.504Z"
+    },
+    {
+        "title": "How To Install and Configure Neo4j on Ubuntu 22.04 | DigitalOcean",
+        "url": "https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-neo4j-on-ubuntu-22-04",
+        "date": "2022-05-03T20:55:02.936Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/kmnk0n8FR",
+        "date": "2022-05-03T20:55:06.926Z"
+    },
+    {
+        "title": "Top 6 JavaScript ES12 Features You Should Use | Syncfusion Blogs",
+        "url": "https://www.syncfusion.com/blogs/post/top-6-javascript-es12-features-you-should-use.aspx",
+        "date": "2022-05-03T20:55:09.626Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/HiLDepMm0",
+        "date": "2022-05-03T20:55:26.597Z"
+    },
+    {
+        "title": "I Design, You Build! - Frontend Challenge #4 (Supabase version)",
+        "url": "https://blog.zernonia.com/i-design-you-build-frontend-challenge-4-supabase-version",
+        "date": "2022-05-03T20:55:27.961Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/BMAAllKb8",
+        "date": "2022-05-03T20:55:50.905Z"
+    },
+    {
+        "title": "5 Simple Productivity Tips For Developers",
+        "url": "https://thomasscott.hashnode.dev/5-simple-productivity-tips-for-developers",
+        "date": "2022-05-03T20:55:51.686Z"
+    },
+    {
+        "title": "Textualize",
+        "url": "https://www.textualize.io/",
+        "date": "2022-05-03T20:55:52.798Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/SicjZHzkO",
+        "date": "2022-05-03T20:55:58.541Z"
+    },
+    {
+        "title": "How to Setup an Arch Linux Environment for Coding | HackerNoon",
+        "url": "https://hackernoon.com/how-to-setup-an-arch-linux-environment-for-coding?source=rss",
+        "date": "2022-05-03T20:56:00.778Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/MItT_X1Rt",
+        "date": "2022-05-03T20:56:03.311Z"
+    },
+    {
+        "title": "Why you should be using the dialog element - LogRocket Blog",
+        "url": "https://blog.logrocket.com/using-the-dialog-element/",
+        "date": "2022-05-03T20:56:05.303Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/FlnKZp_dw",
+        "date": "2022-05-03T20:56:10.272Z"
+    },
+    {
+        "title": "How I tanked a FAANG interview",
+        "url": "https://blog.ihatethebus.com/how-i-tanked-a-faang-interview",
+        "date": "2022-05-03T20:56:12.309Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/K77vC5ojS",
+        "date": "2022-05-03T20:56:16.754Z"
+    },
+    {
+        "title": "Flawless Teamwork (Ed Batista)",
+        "url": "https://www.edbatista.com/2022/04/flawless-teamwork.html",
+        "date": "2022-05-03T20:56:18.167Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/z7hczQoNo",
+        "date": "2022-05-03T20:56:19.756Z"
+    },
+    {
+        "title": "Why 1 Good UX Is Worth 5 Engineers",
+        "url": "https://devinterrupted.com/podcast/why-1-good-ux-is-worth-5-engineers/",
+        "date": "2022-05-03T20:56:21.287Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/QbzR9xygF",
+        "date": "2022-05-03T20:56:36.263Z"
+    },
+    {
+        "title": "DevDum! - 200  resources for web developersit's a no brainer | Product Hunt",
+        "url": "https://www.producthunt.com/posts/devdum",
+        "date": "2022-05-03T20:56:38.442Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/VoHQFhKgk",
+        "date": "2022-05-03T20:56:43.733Z"
+    },
+    {
+        "title": "8 common React error messages and how to address them - LogRocket Blog",
+        "url": "https://blog.logrocket.com/8-common-react-error-messages-how-address-them/",
+        "date": "2022-05-03T20:56:45.116Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/nf9pzOFHJ",
+        "date": "2022-05-03T20:56:51.156Z"
+    },
+    {
+        "title": "Deploy Your First Website without Leaving Your IDE - DEV Community",
+        "url": "https://dev.to/github/deploy-your-first-website-without-leaving-your-ide-2mpp",
+        "date": "2022-05-03T20:56:52.070Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/dIJVS1Ymm",
+        "date": "2022-05-03T20:56:59.247Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/XBwF6Hizt",
+        "date": "2022-05-03T20:57:00.120Z"
+    },
+    {
+        "title": "Announcing Payment Card Industry Data Security Standard (PCI DSS) compliance for Elastic Cloud | Elastic Blog",
+        "url": "https://www.elastic.co/blog/elastic-cloud-pci-dss-compliance",
+        "date": "2022-05-03T20:57:03.562Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/rA8ODf-Fy",
+        "date": "2022-05-03T20:57:04.581Z"
+    },
+    {
+        "title": "JavaScript Promises. Asynchronous JavaScript | by Nausheen Akhter | Towards Dev",
+        "url": "https://towardsdev.com/javascript-promises-f62fc2892247",
+        "date": "2022-05-03T20:57:04.470Z"
+    },
+    {
+        "title": "13 JavaScript Testing Best Practices You Should Know",
+        "url": "https://devdojo.com/arnabroychowdhury/13-javascript-testing-best-practices-you-should-know",
+        "date": "2022-05-03T20:57:06.244Z"
+    },
+    {
+        "title": "13 JavaScript Testing Best Practices You Should Know",
+        "url": "https://devdojo.com/arnabroychowdhury/13-javascript-testing-best-practices-you-should-know",
+        "date": "2022-05-03T20:57:06.446Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/uDW0yRQra",
+        "date": "2022-05-03T20:57:13.037Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/UqtZzqYgI",
+        "date": "2022-05-03T20:57:14.155Z"
+    },
+    {
+        "title": "I cloned Youtube with Tailwind CSS in 3 days and you will learn it in 3 minutes! | by Leon | Apr, 2022 | Level Up Coding",
+        "url": "https://levelup.gitconnected.com/i-cloned-youtube-with-tailwind-css-in-3-days-and-you-will-learn-it-in-3-minutes-a612334f21ff",
+        "date": "2022-05-03T20:57:18.068Z"
+    },
+    {
+        "title": "How I manage my SCSS properties | by Ryan Tan | Mar, 2022 | Level Up Coding",
+        "url": "https://levelup.gitconnected.com/how-i-manage-my-scss-properties-55ee71f5ec1",
+        "date": "2022-05-03T20:57:18.341Z"
+    },
+    {
+        "title": "Auth0 | JWT Handbook",
+        "url": "https://auth0.com/resources/ebooks/jwt-handbook?utm_source=carbon",
+        "utm_medium": "cpc",
+        "utm_campaign": "carbon",
+        "utm_content": "auth0-jwt-handbook",
+        "date": "2022-05-03T20:57:27.446Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/AzhKZNVfM",
+        "date": "2022-05-03T20:57:33.781Z"
+    },
+    {
+        "title": "Developing and Deploying AI-powered Robots with NVIDIA Isaac Sim and NVIDIA TAO | NVIDIA Technical Blog",
+        "url": "https://developer.nvidia.com/blog/developing-and-deploying-ai-powered-robots-with-nvidia-isaac-sim-and-nvidia-tao/",
+        "date": "2022-05-03T20:57:36.309Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/mnbgyjr-8",
+        "date": "2022-05-03T20:57:38.270Z"
+    },
+    {
+        "title": "The Problem-Solving Traps I Fell Into as a Junior Engineer",
+        "url": "https://yax.hashnode.dev/the-problem-solving-traps-i-fell-into-as-a-junior-engineer",
+        "date": "2022-05-03T20:57:39.301Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/F-hp63ehA",
+        "date": "2022-05-03T20:57:43.081Z"
+    },
+    {
+        "title": "Writing Code Is One Thing, Learning to Be a Software Engineer Is Another | by Ben \"The Hosk\" Hosking | Apr, 2022 | Better Programming",
+        "url": "https://betterprogramming.pub/writing-code-is-one-thing-learning-to-be-a-software-engineer-is-another-9d5c6fc5d6a8",
+        "date": "2022-05-03T20:57:46.721Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/xFBQ_1u4J",
+        "date": "2022-05-03T20:57:50.588Z"
+    },
+    {
+        "title": "Choosing the best Next.js hosting platform - LogRocket Blog",
+        "url": "https://blog.logrocket.com/choosing-best-nextjs-hosting-platform/",
+        "date": "2022-05-03T20:57:52.016Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/VE82gPvc_",
+        "date": "2022-05-03T20:57:57.993Z"
+    },
+    {
+        "title": "Vawe - Background music and sounds for productivity | Product Hunt",
+        "url": "https://www.producthunt.com/posts/vawe",
+        "date": "2022-05-03T20:57:59.202Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/lwvHwA9QG",
+        "date": "2022-05-03T20:58:04.212Z"
+    },
+    {
+        "title": "Nobody wants your fancy algorithm",
+        "url": "https://joemorrison.substack.com/p/nobody-wants-your-fancy-algorithm?s=r",
+        "date": "2022-05-03T20:58:05.339Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/kCmrzESEv",
+        "date": "2022-05-03T20:58:12.234Z"
+    },
+    {
+        "title": "Learning the language of life with Sean McClain ",
+        " Joshua Meier from Absci (Practical AI #177) |> Changelog": "",
+        "url": "https://changelog.com/practicalai/177",
+        "date": "2022-05-03T20:58:13.167Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/TL1JfENcf",
+        "date": "2022-05-03T20:58:22.227Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/kFzaiForj",
+        "date": "2022-05-03T20:58:23.731Z"
+    },
+    {
+        "title": "What's new in React 18",
+        "url": "https://h.daily-dev-tips.com/whats-new-in-react-18",
+        "date": "2022-05-03T20:58:25.062Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/Q8TgkWwS6",
+        "date": "2022-05-03T20:58:28.369Z"
+    },
+    {
+        "title": "ClickHouse - 10x improved response times, cheaper to operate, and 30% storage reduction : why Instabug chose ClickHouse for APM",
+        "url": "https://clickhouse.com/blog/10x-improved-response-times-cheaper-to-operate-and-30-storage-reduction-why-instabug-chose-clickhouse-for-apm/",
+        "date": "2022-05-03T20:58:32.604Z"
+    },
+    {
+        "title": "KuFlow - A developer-oriented workflow engine | Product Hunt",
+        "url": "https://www.producthunt.com/posts/kuflow",
+        "date": "2022-05-03T20:58:34.771Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/gtt4JpHMN",
+        "date": "2022-05-03T20:58:47.343Z"
+    },
+    {
+        "title": "How to copy to clipboard in JavaScript?",
+        "url": "https://blog.greenroots.info/how-to-copy-to-clipboard-in-javascript",
+        "date": "2022-05-03T20:58:48.626Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/CfIT_ylHI",
+        "date": "2022-05-03T20:58:52.510Z"
+    },
+    {
+        "title": "Understanding Blockchain Fundamentals: Proof-Of-Stake | by Ravi Tandon | May, 2022 | Level Up Coding",
+        "url": "https://levelup.gitconnected.com/understanding-blockchain-fundamentals-proof-of-stake-66250e3be61",
+        "date": "2022-05-03T20:58:55.522Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/E9hMSj1uK",
+        "date": "2022-05-03T20:58:59.437Z"
+    },
+    {
+        "title": "How to Contribute to Open-Source Projects – A Beginner's Guide",
+        "url": "https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects/",
+        "date": "2022-05-03T20:59:00.561Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/iP0zy2ZEz",
+        "date": "2022-05-03T20:59:05.627Z"
+    },
+    {
+        "title": "Real-time dynamic authorization - an introduction to OPAL",
+        "url": "https://www.permit.io/blog/introduction-to-opal",
+        "date": "2022-05-03T20:59:07.253Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/E4pK8d28K",
+        "date": "2022-05-03T20:59:12.853Z"
+    },
+    {
+        "title": "Handling Sensitive Data: A Primer | by Michael Bogan | May, 2022 | Towards Data Science",
+        "url": "https://towardsdatascience.com/handling-sensitive-data-a-primer-caed9b408de1",
+        "date": "2022-05-03T20:59:16.200Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/oLdhH3NX2",
+        "date": "2022-05-03T20:59:20.217Z"
+    },
+    {
+        "title": "A Dive into React Storybook",
+        "url": "https://blog.openreplay.com/a-dive-into-react-storybook",
+        "date": "2022-05-03T20:59:22.537Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/Nzsr17Wle",
+        "date": "2022-05-03T20:59:26.403Z"
+    },
+    {
+        "title": "Learn CRUD Operations in JavaScript by Building TODO APP",
+        "url": "https://www.freecodecamp.org/news/learn-crud-operations-in-javascript-by-building-todo-app/",
+        "date": "2022-05-03T20:59:27.882Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/Ph2FoOMJz",
+        "date": "2022-05-03T20:59:32.773Z"
+    },
+    {
+        "title": "How to Use Sass with CSS",
+        "url": "https://www.freecodecamp.org/news/how-to-use-sass-with-css/",
+        "date": "2022-05-03T20:59:34.378Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/QWtFHL48D",
+        "date": "2022-05-03T20:59:42.213Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/e0OSXkU8u",
+        "date": "2022-05-03T20:59:43.576Z"
+    },
+    {
+        "title": "How to ask questions as a new engineer",
+        "url": "https://genericmikechen.hashnode.dev/how-to-ask-questions-as-a-new-engineer",
+        "date": "2022-05-03T20:59:43.819Z"
+    },
+    {
+        "title": "What is Memoization? How and When to Memoize in JavaScript and React",
+        "url": "https://www.freecodecamp.org/news/memoization-in-javascript-and-react/",
+        "date": "2022-05-03T20:59:44.486Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/wzDg42c2G",
+        "date": "2022-05-03T20:59:49.840Z"
+    },
+    {
+        "title": "JavaScript, how to get the class name of an object",
+        "url": "https://flaviocopes.com/javascript-get-object-class-name/",
+        "date": "2022-05-03T20:59:51.646Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/vOnGvSTqR",
+        "date": "2022-05-03T20:59:53.398Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/hbeJQtip8",
+        "date": "2022-05-03T20:59:56.575Z"
+    },
+    {
+        "title": "All Roads Lead to Rome: The Machine Learning Job Market in 2022 | Eric Jang",
+        "url": "https://evjang.com/2022/04/25/rome.html",
+        "date": "2022-05-03T20:59:57.040Z"
+    },
+    {
+        "title": "Meta-Programming Concept, Retrofit API Calls, User Actions, Passive Views, and more! | by Shahla Aliyeva | May, 2022 | ProAndroidDev",
+        "url": "https://proandroiddev.com/meta-programming-concept-retrofit-api-calls-user-actions-passive-views-and-more-378dc04df7b8",
+        "date": "2022-05-03T20:59:57.325Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/QKkq1Nya7",
+        "date": "2022-05-03T21:00:03.852Z"
+    },
+    {
+        "title": "From Ticket Speed to Machine Speed: Why Automation Is Key – The New Stack",
+        "url": "https://thenewstack.io/from-ticket-speed-to-machine-speed-why-automation-is-key/",
+        "date": "2022-05-03T21:00:04.993Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/fubx8KIZ0",
+        "date": "2022-05-03T21:00:19.600Z"
+    },
+    {
+        "title": "Coming Soon Kit - 50  coming soon pages built with Tailwind CSS | Product Hunt",
+        "url": "https://www.producthunt.com/posts/coming-soon-kit",
+        "date": "2022-05-03T21:00:21.326Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/yffCJ-AEH",
+        "date": "2022-05-03T21:00:25.281Z"
+    },
+    {
+        "title": "Cool Hover Effects That Use Background Properties | CSS-Tricks - CSS-Tricks",
+        "url": "https://css-tricks.com/cool-hover-effects-using-background-properties/",
+        "date": "2022-05-03T21:00:28.233Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/dOe8SX6a0",
+        "date": "2022-05-03T21:00:33.329Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/e0OIw7i-Y",
+        "date": "2022-05-03T21:00:36.124Z"
+    },
+    {
+        "title": "Uber Uses This Framework for Rapid ML Development | by Jesus Rodriguez | May, 2022 | Towards AI",
+        "url": "https://pub.towardsai.net/uber-uses-this-framework-for-rapid-ml-development-e4a158b1a73e",
+        "date": "2022-05-03T21:00:36.795Z"
+    },
+    {
+        "title": "5 Books To Help You Write Better Code | by Sara A. Metwalli | Apr, 2022 | Towards Data Science",
+        "url": "https://towardsdatascience.com/5-books-to-help-you-write-better-code-ac0aef64de70",
+        "date": "2022-05-03T21:00:39.904Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/TKDMxT2qm",
+        "date": "2022-05-03T21:00:43.359Z"
+    },
+    {
+        "title": "12 Awesome Shape Generators for Your Web Projects 😍🚀",
+        "url": "https://madza.hashnode.dev/12-awesome-shape-generators-for-your-web-projects",
+        "date": "2022-05-03T21:00:44.305Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/qFY7FfTiL",
+        "date": "2022-05-03T21:00:48.577Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/n0uz1LONU",
+        "date": "2022-05-03T21:00:50.076Z"
+    },
+    {
+        "title": "From Coding Bootcamp to 10,000 Hour Developer | .cult by Honeypot",
+        "url": "https://cult.honeypot.io/reads/from-bootcamp-student-to-expert-developer/",
+        "date": "2022-05-03T21:00:50.388Z"
+    },
+    {
+        "title": "CSS Tips - Marko Denic - Web Developer",
+        "url": "https://markodenic.com/css-tips/",
+        "date": "2022-05-03T21:00:54.405Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/064lTxQBs",
+        "date": "2022-05-03T21:01:05.428Z"
+    },
+    {
+        "title": "How To Secure Apache with Let's Encrypt on Ubuntu 22.04 | DigitalOcean",
+        "url": "https://www.digitalocean.com/community/tutorials/how-to-secure-apache-with-let-s-encrypt-on-ubuntu-22-04",
+        "date": "2022-05-03T21:01:06.582Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/89x3pb5O7",
+        "date": "2022-05-03T21:01:15.154Z"
+    },
+    {
+        "title": "Create Your Own VPN Server with Vultr ",
+        " OpenVPN - SitePoint": "",
+        "url": "https://www.sitepoint.com/create-your-own-vpn-server/?utm_source=rss",
+        "date": "2022-05-03T21:01:21.094Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/NwmMSR9vq",
+        "date": "2022-05-03T21:01:25.756Z"
+    },
+    {
+        "title": "Beautify your GitHub repo. Whether you like it or not, GitHub has… | by Nicolas Fränkel | Apr, 2022 | ITNEXT",
+        "url": "https://itnext.io/beautify-github-repo-7348b1971899",
+        "date": "2022-05-03T21:01:29.832Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/JuNfW0BsC",
+        "date": "2022-05-03T21:01:33.986Z"
+    },
+    {
+        "title": "NFTJS 2.0 - A Javascript library to implement NFTs in web3 app | Product Hunt",
+        "url": "https://www.producthunt.com/posts/nftjs-2-0",
+        "date": "2022-05-03T21:01:35.382Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/oKED7q2GR",
+        "date": "2022-05-03T21:01:36.610Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/oZmhCiYxR",
+        "date": "2022-05-03T21:01:37.527Z"
+    },
+    {
+        "title": "CSS Variables Definition – What are CSS Vars and How to Use Them?",
+        "url": "https://www.freecodecamp.org/news/what-are-css-variables-and-how-to-use-them/",
+        "date": "2022-05-03T21:01:38.837Z"
+    },
+    {
+        "title": "Hands-on CI/CD Bitbucket Pipeline for Data Scientists | by Rahul Veettil | Towards AI",
+        "url": "https://pub.towardsai.net/hands-on-ci-cd-bitbucket-pipeline-for-data-scientists-edda130a0949",
+        "date": "2022-05-03T21:01:41.482Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/HVa9d_qHq",
+        "date": "2022-05-03T21:02:53.059Z"
+    },
+    {
+        "title": "You Don’t Need A UI Framework — Smashing Magazine",
+        "url": "https://www.smashingmagazine.com/2022/05/you-dont-need-ui-framework/",
+        "date": "2022-05-03T21:02:54.059Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/BoCAcU-DG",
+        "date": "2022-05-03T21:02:55.497Z"
+    },
+    {
+        "title": "Scrollex - A react library to build beautiful scroll experiences | Product Hunt",
+        "url": "https://www.producthunt.com/posts/scrollex",
+        "date": "2022-05-03T21:02:56.710Z"
+    },
+    {
+        "title": "incident.io — Incident response for fast-growing tech companies | incident.io",
+        "url": "https://incident.io/?utm_source=daily dev",
+        "utm_medium": "UGC card",
+        "date": "2022-05-03T21:03:01.447Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/c822zulzC",
+        "date": "2022-05-03T21:03:04.640Z"
+    },
+    {
+        "title": "Linux for Beginners",
+        "url": "https://www.crio.do/blog/linux-for-beginners/",
+        "date": "2022-05-03T21:03:07.847Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/_zRA3eoXM",
+        "date": "2022-05-03T21:03:11.946Z"
+    },
+    {
+        "title": "How searchandising can help your business - And what is it? Search   merchandising | Algolia Blog",
+        "url": "https://www.algolia.com/blog/uncategorised/how-searchandising-can-help-your-business/",
+        "date": "2022-05-03T21:03:15.511Z"
+    },
+    {
+        "title": "Grow Sales | Mailchimp",
+        "url": "https://mailchimp.com/smart-marketing/?utm_source=vzn",
+        "utm_medium": "prg",
+        "utm_campaign": "phd_sp4_product_morethanplt_eng_vzn_us_en_202202_prg_prspct_native_20966_predictive_standard_1x1_highimpact_1x1",
+        "utm_content": "prspct_native_20966_predictive_standard_1x1_highimpact_1x1",
+        "dclid": "CjkKEQjwpcOTBhCvzKetutO4k4cBEiQA_KV2I2P1Uu8AKKAHuTKlT1790qnPEcpBMVaX5HpQ6WCMLNLw_wcB",
+        "date": "2022-05-03T21:03:21.493Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/8mREKpjoX",
+        "date": "2022-05-03T21:03:24.564Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/yhlD3E04F",
+        "date": "2022-05-03T21:03:27.075Z"
+    },
+    {
+        "title": "Open-sourcing Twitter's algorithms is more complex than Musk implies",
+        "url": "https://thenextweb.com/news/what-are-elon-musk-plans-to-open-source-twitter-algorithms",
+        "date": "2022-05-03T21:03:28.123Z"
+    },
+    {
+        "title": "Understanding Blockchain and Smart Contracts | by Ravi Tandon | Apr, 2022 | Level Up Coding",
+        "url": "https://levelup.gitconnected.com/understanding-blockchain-and-smart-contracts-9f039078aade",
+        "date": "2022-05-03T21:03:28.435Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/fkuH4iyh4",
+        "date": "2022-05-03T21:03:33.801Z"
+    },
+    {
+        "title": "Kira272921/snipli: ✨ A command-line interface for quickly sharing code snippets of your local files",
+        "url": "https://github.com/Kira272921/snipli",
+        "date": "2022-05-03T21:03:34.863Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/eopNU4m7w",
+        "date": "2022-05-03T21:03:37.104Z"
+    },
+    {
+        "title": "Chrome Extensions Used For Hacking | by Abhinav Pathak | System Weakness",
+        "url": "https://systemweakness.com/chrome-extensions-used-for-hacking-6fdb57a02dc4",
+        "date": "2022-05-03T21:03:40.837Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/Mn2xVF0VL",
+        "date": "2022-05-03T21:03:42.853Z"
+    },
+    {
+        "title": "4 cheat sheets I can't live without | Opensource.com",
+        "url": "https://opensource.com/article/22/4/favorite-cheat-sheets",
+        "date": "2022-05-03T21:03:45.246Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/2b7H10gOa",
+        "date": "2022-05-03T21:03:47.644Z"
+    },
+    {
+        "title": "How I put my whole life into a single database · Felix Krause",
+        "url": "https://krausefx.com//blog/how-i-put-my-whole-life-into-a-single-database",
+        "date": "2022-05-03T21:03:48.441Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/MlD7BCxDr",
+        "date": "2022-05-03T21:03:52.064Z"
+    },
+    {
+        "title": "Pointer   Doppler",
+        "url": "https://www.doppler.com/l/pointer?utm_source=pointer",
+        "utm_medium": "referral",
+        "utm_campaign": "pointermay3",
+        "date": "2022-05-03T21:03:53.444Z"
+    },
+    {
+        "title": "howisFelix.today? · Felix Krause",
+        "url": "https://howisfelix.today/?",
+        "date": "2022-05-03T21:04:53.155Z"
+    },
+    {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/",
+        "date": "2022-05-03T21:06:32.711Z"
+    },
+    {
+        "title": "youtube clients - Google Search",
+        "url": "https://www.google.com/search?q=youtube clients",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "oq": "youtube clients",
+        "aqs": "chrome..69i57j0i10l9.1584j0j1",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-03T21:11:57.580Z"
+    },
+    {
+        "title": "NewPipe - a free YouTube client",
+        "url": "https://newpipe.net/",
+        "date": "2022-05-03T21:12:01.949Z"
+    },
+    {
+        "title": "FreeTube - The Private YouTube Client",
+        "url": "https://freetubeapp.io/",
+        "date": "2022-05-03T21:12:44.147Z"
+    },
+    {
+        "title": "steam download - Google Search",
+        "url": "https://www.google.com/search?q=steam download",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "oq": "steam download",
+        "aqs": "chrome.0.35i39l2j0i512j0i20i263i433i512j0i433i512j0i512l4.1984j0j1",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-03T21:14:51.311Z"
+    },
+    {
+        "title": "Welcome to Steam",
+        "url": "https://store.steampowered.com/?curator_clanid=41243076",
+        "gclid": "Cj0KCQjwpcOTBhCZARIsAEAYLuWYHYFdmWGaJQJondoo5_KyKXHk9Em1IjLZudjLDf8Jke06bN37CAoaAv5CEALw_wcB",
+        "date": "2022-05-03T21:14:53.075Z"
+    },
+    {
+        "title": "Going Rogue",
+        "url": "https://store.steampowered.com/category/going_rogue/",
+        "date": "2022-05-03T21:15:00.167Z"
+    },
+    {
+        "title": "Steam, The Ultimate Online Game Platform",
+        "url": "https://store.steampowered.com/about/",
+        "date": "2022-05-03T21:15:00.952Z"
+    },
+    {
+        "title": "My Drive - Google Drive",
+        "url": "https://drive.google.com/drive/u/0/my-drive",
+        "date": "2022-05-03T21:17:31.696Z"
+    },
+    {
+        "title": "My Drive - Google Drive",
+        "url": "https://drive.google.com/drive/u/1/my-drive",
+        "date": "2022-05-03T21:17:35.288Z"
+    },
+    {
+        "title": "path of exile 2 - Google Search",
+        "url": "https://www.google.com/search?q=path of exile 2",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "oq": "path of exile 2",
+        "aqs": "chrome..69i57j46i512j0i512l2j0i67j0i457i512j0i512l4.2625j0j1",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-03T21:19:20.982Z"
+    },
+    {
+        "title": "Path of Exile 2 - Path of Exile",
+        "url": "https://www.pathofexile.com/poe2",
+        "date": "2022-05-03T21:19:24.334Z"
+    },
+    {
+        "title": "News - Path of Exile - A Free Online Action RPG",
+        "url": "https://www.pathofexile.com/",
+        "date": "2022-05-03T21:47:10.319Z"
+    },
+    {
+        "title": "Just a moment...",
+        "url": "https://www.pathofexile.com/account/create",
+        "date": "2022-05-03T21:47:18.143Z"
+    },
+    {
+        "title": "Path of Exile",
+        "url": "https://www.pathofexile.com/account/create",
+        "date": "2022-05-03T21:47:20.764Z"
+    },
+    {
+        "title": "how to change where steam installs games - Google Search",
+        "url": "https://www.google.com/search?q=how to change where steam installs games",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "oq": "how to change where steam ",
+        "aqs": "chrome.1.69i57j0i512l9.7695j1j4",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-03T21:49:47.061Z"
+    },
+    {
+        "title": "Steam Support :: Moving a Steam Installation and Games",
+        "url": "https://help.steampowered.com/en/faqs/view/4BD4-4528-6B2E-8327",
+        "date": "2022-05-03T21:49:50.576Z"
+    },
+    {
+        "title": "what day is mother's day - Google Search",
+        "url": "https://www.google.com/search?q=what day is mother's day",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "oq": "what day is mother's day",
+        "aqs": "chrome.0.0i131i433i512l2j0i512l8.2528j1j4",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-03T22:02:53.453Z"
+    },
+    {
+        "title": "wordpress - Google Search",
+        "url": "https://www.google.com/search?q=wordpress",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "oq": "wordpress",
+        "aqs": "chrome..69i57j0i67i433j0i67j0i433i512j0i512j0i131i433i512j0i512l3.1441j0j1",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-03T22:18:08.435Z"
+    },
+    {
+        "title": "GitHub",
+        "url": "https://github.com/",
+        "date": "2022-05-03T22:58:41.520Z"
+    },
+    {
+        "title": "SSL using Let’s Encrypt. Without Strong Encryption, you will be… | by Durgadas Kamath | System Weakness",
+        "url": "https://systemweakness.com/ssl-using-lets-encrypt-50506e3c6ff4",
+        "date": "2022-05-03T23:52:47.653Z"
+    },
+    {
+        "title": "What is an Authenticator app for 2FA? | by AtoZ Appz | System Weakness",
+        "url": "https://systemweakness.com/what-is-an-authenticator-app-for-2fa-f55da3a19420",
+        "date": "2022-05-03T23:52:58.458Z"
+    },
+    {
+        "title": "goldmouthdogg88/react-blog",
+        "url": "https://github.com/goldmouthdogg88/react-blog",
+        "date": "2022-05-03T23:53:45.855Z"
+    },
+    {
+        "title": "javascript highlight text - Google Search",
+        "url": "https://www.google.com/search?q=javascript highlight text",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "oq": "javascript highlight",
+        "aqs": "chrome.0.0i512j69i57j0i512l8.4384j0j1",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-03T23:55:26.004Z"
+    },
+    {
+        "title": "Highlight Searched text on a page with just Javascript - DEV Community",
+        "url": "https://dev.to/comscience/highlight-searched-text-on-a-page-with-just-javascript-17b3",
+        "date": "2022-05-03T23:55:47.011Z"
+    },
+    {
+        "title": "mark.js – JavaScript keyword highlight",
+        "url": "https://markjs.io/",
+        "date": "2022-05-03T23:55:47.424Z"
+    },
+    {
+        "title": "Highlight Text in JavaScript | Delft Stack",
+        "url": "https://www.delftstack.com/howto/javascript/highlight-text-using-javascript/",
+        "date": "2022-05-03T23:55:49.118Z"
+    },
+    {
+        "title": "Change Content - Javascript - JSFiddle - Code Playground",
+        "url": "https://jsfiddle.net/54qaexfy/",
+        "date": "2022-05-03T23:56:54.419Z"
+    },
+    {
+        "title": "Searching and marking - JSFiddle - Code Playground",
+        "url": "https://jsfiddle.net/kkokane/3y2euvf7/39/",
+        "date": "2022-05-04T00:00:00.752Z"
+    },
+    {
+        "title": "dictionary data structure - Google Search",
+        "url": "https://www.google.com/search?q=dictionary data structure",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "oq": "dictionary data",
+        "aqs": "chrome.0.0i512j69i57j0i512l8.2064j1j1",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-04T00:05:44.748Z"
+    },
+    {
+        "title": "how to model a dictionary as a data structure - Google Search",
+        "url": "https://www.google.com/search?q=how to model a dictionary as a data structure",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "sxsrf": "ALiCzsbJCs1LWFDzH0MKcdszFqcGiKppdQ:1651622743561",
+        "ei": "V8NxYsj1IYy-tAaFo5uAAg",
+        "oq": "how to model a dictionary as a ",
+        "gs_lcp": "Cgdnd3Mtd2l6EAMYADIFCCEQoAEyBQghEKABMgUIIRCgATIFCCEQoAEyBQghEKsCMgUIIRCrAjIFCCEQqwI6BwgAEEcQsAM6BwgAELADEEM6BAgjECc6BAgAEEM6BQgAEJECOhEILhCABBCxAxCDARDHARCjAjoLCAAQgAQQsQMQgwE6BQgAEIAEOggILhCABBCxAzoICAAQgAQQsQM6CAgAELEDEIMBOgYIABAWEB46CAghEBYQHRAeOgUIABCGA0oECEEYAEoECEYYAFDnCFiFTGCFWGgLcAF4AoABxgGIAboakgEFMjUuMTKYAQCgAQHIAQrAAQE",
+        "sclient": "gws-wiz",
+        "date": "2022-05-04T00:06:06.081Z"
+    },
+    {
+        "title": "how to model a dictionary as a data structure - Google Search",
+        "url": "https://www.google.com/search?q=how to model a dictionary as a data structure",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "sxsrf": "ALiCzsYf1qJ6Hcey04xrUpr5lgw7yc7Ugg:1651622764882",
+        "source": "lnms",
+        "tbm": "isch",
+        "sa": "X",
+        "ved": "2ahUKEwiOq9ChxsT3AhXRX80KHb4OArgQ_AUoAnoECAEQBA",
+        "biw": "1920",
+        "bih": "912",
+        "dpr": "1",
+        "date": "2022-05-04T00:06:17.849Z"
+    },
+    {
+        "title": "how to model a dictionary as a data structure - Google Search",
+        "url": "https://www.google.com/search?q=how to model a dictionary as a data structure",
+        "source": "lmns",
+        "bih": "912",
+        "biw": "1920",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "hl": "en",
+        "sa": "X",
+        "ved": "2ahUKEwjO_5inxsT3AhVWZM0KHWbCBL0Q_AUoAHoECAEQAA",
+        "date": "2022-05-04T00:06:24.453Z"
+    },
+    {
+        "title": "data structures - Google Search",
+        "url": "https://www.google.com/search?q=data structures",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "sxsrf": "ALiCzsYf1qJ6Hcey04xrUpr5lgw7yc7Ugg:1651622764882",
+        "ei": "bMNxYo7FNdG_tQa-nYjACw",
+        "ved": "0ahUKEwiOq9ChxsT3AhXRX80KHb4OArgQ4dUDCA8",
+        "uact": "5",
+        "oq": "data structures",
+        "gs_lcp": "Cgdnd3Mtd2l6EAMyBQgAEJECMggIABCxAxCRAjIFCAAQkQIyBQgAEJECMgUIABCRAjIFCC4QgAQyBQgAEIAEMgUILhCABDIICC4QgAQQ1AIyBQgAEIAEOgcIIxCwAxAnOgcIABBHELADOgcIIxDqAhAnOgQIIxAnOgcIABCxAxBDOgQIABBDOg4ILhCABBCxAxDHARCjAjoLCC4QsQMQgwEQ1AI6EQguEIAEELEDEIMBEMcBEKMCOggIABCABBCxAzoGCAAQChBDOgQILhBDOgsIABCABBCxAxDJAzoFCAAQkgNKBAhBGABKBAhGGABQ0BlYvSpgrjRoBHABeACAAXiIAbIJkgEEMTMuMpgBAKABAbABCsgBCcABAQ",
+        "sclient": "gws-wiz",
+        "date": "2022-05-04T00:06:34.408Z"
+    },
+    {
+        "title": "Advanced Data Structures | Electrical Engineering and Computer Science | MIT OpenCourseWare",
+        "url": "https://ocw.mit.edu/courses/6-851-advanced-data-structures-spring-2012/",
+        "date": "2022-05-04T00:06:43.926Z"
+    },
+    {
+        "title": "Search | MIT OpenCourseWare | Free Online Course Materials",
+        "url": "https://ocw.mit.edu/search/?s=department_course_numbers.sort_coursenum",
+        "date": "2022-05-04T00:07:23.411Z"
+    },
+    {
+        "title": "tailpipe - Google Search",
+        "url": "https://www.google.com/search?q=tailpipe",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "oq": "tailpipe",
+        "aqs": "chrome..69i57j0i512l9.2384j1j1",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-04T00:10:20.895Z"
+    },
+    {
+        "title": "tailpipe - Google Search",
+        "url": "https://www.google.com/search?q=tailpipe",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "sxsrf": "ALiCzsaufOazwimeedvoiHMdLWbJ9fz3SQ:1651623019809",
+        "source": "lnms",
+        "tbm": "isch",
+        "sa": "X",
+        "ved": "2ahUKEwie25ebx8T3AhXhB50JHZ__A4kQ_AUoAXoECAIQAw",
+        "biw": "1920",
+        "bih": "912",
+        "dpr": "1",
+        "date": "2022-05-04T00:10:24.249Z"
+    },
+    {
+        "title": "Inbox (216) - goldmouthdogg88@gmail.com - Gmail",
+        "url": "https://mail.google.com/mail/u/0/#inbox",
+        "date": "2022-05-04T00:13:10.596Z"
+    },
+    {
+        "title": "Inbox (1,313) - dwilsoncnc@gmail.com - Gmail",
+        "url": "https://mail.google.com/mail/u/1/#inbox",
+        "date": "2022-05-04T00:13:23.575Z"
+    },
+    {
+        "title": "Math 136 - Google Search",
+        "url": "https://www.google.com/search?q=Math 136",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-04T00:14:30.216Z"
+    },
+    {
+        "title": "Math 137 - Google Search",
+        "url": "https://www.google.com/search?q=Math 137",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-04T00:14:35.785Z"
+    },
+    {
+        "title": "",
+        "url": "https://www.nv.edu/Portals/0/Documents/CAPSS/Resources-Advisors/ChoosingMathCoursesByMajor.pdf",
+        "date": "2022-05-04T00:14:57.558Z"
+    },
+    {
+        "title": "",
+        "url": "https://wwwapps.ivytech.edu/cor3/g/6/9/URnCmX0dOASDyRDlVrH64HxieLS41K4e6ICvAgKYwqxzjsEkW05uN2fvFh5CvAA2",
+        "date": "2022-05-04T00:15:43.222Z"
+    },
+    {
+        "title": "Online Courses - Learn Anything, On Your Schedule | Udemy",
+        "url": "https://www.udemy.com/",
+        "date": "2022-05-04T00:17:46.344Z"
+    },
+    {
+        "title": "Login | Udemy",
+        "url": "https://www.udemy.com/join/login-popup/?locale=en_US",
+        "response_type": "html",
+        "next": "https://www.udemy.com/",
+        "date": "2022-05-04T00:17:48.307Z"
+    },
+    {
+        "title": "Online Courses - Learn Anything, On Your Schedule | Udemy",
+        "url": "https://www.udemy.com/",
+        "date": "2022-05-04T00:17:59.362Z"
+    },
+    {
+        "title": "Online Courses - Learn Anything, On Your Schedule | Udemy",
+        "url": "https://www.udemy.com/home/my-courses/",
+        "date": "2022-05-04T00:18:03.481Z"
+    },
+    {
+        "title": "Master the Fundamentals of Math | Udemy",
+        "url": "https://www.udemy.com/course/fundamentals-of-math/learn/lecture/12527134?start=0",
+        "date": "2022-05-04T00:23:02.518Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/aZOxDL_At",
+        "date": "2022-05-04T00:23:55.967Z"
+    },
+    {
+        "title": "How to build a movie application using Next.js and Appwrite ?",
+        "url": "https://devdojo.com/imkarthikeyans/how-to-build-a-movie-application-using-nextjs-and-appwrite",
+        "date": "2022-05-04T00:23:57.546Z"
+    },
+    {
+        "title": "How to build a movie application using Next.js and Appwrite ?",
+        "url": "https://devdojo.com/imkarthikeyans/how-to-build-a-movie-application-using-nextjs-and-appwrite",
+        "date": "2022-05-04T00:23:57.764Z"
+    },
+    {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/",
+        "date": "2022-05-04T00:24:00.332Z"
+    },
+    {
+        "title": "scrollex - Google Search",
+        "url": "https://www.google.com/search?q=scrollex",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "oq": "scrollex",
+        "aqs": "chrome..69i57j0i30l2j0i10i30j0i30l4j0i5i30j0i5i10i30.255j0j4",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-04T00:29:04.271Z"
+    },
+    {
+        "title": "Scrollex - A react library to build beautiful scroll experiences | Product Hunt",
+        "url": "https://www.producthunt.com/posts/scrollex",
+        "date": "2022-05-04T00:29:12.019Z"
+    },
+    {
+        "title": "scrollex - Google Search",
+        "url": "https://www.google.com/search?q=scrollex",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "oq": "scrollex",
+        "aqs": "chrome..69i57j0i30l2j0i10i30j0i30l4j0i5i30j0i5i10i30.255j0j4",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-04T00:29:24.327Z"
+    },
+    {
+        "title": "scrollex github - Google Search",
+        "url": "https://www.google.com/search?q=scrollex github",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "sxsrf": "ALiCzsaNbufLDZng1NwzyuRGbcBzamaxsw:1651624143431",
+        "ei": "z8hxYuL8GYGqtQaw4oGwCg",
+        "ved": "0ahUKEwiioPyyy8T3AhUBVc0KHTBxAKYQ4dUDCA8",
+        "uact": "5",
+        "oq": "scrollex github",
+        "gs_lcp": "Cgdnd3Mtd2l6EAMyBggAEA0QHjIICAAQDRAFEB4yCAgAEA0QBRAeMggIABANEAUQHjIICAAQDRAFEB4yCAgAEA0QBRAeMggIABANEAUQHjIICAAQDRAFEB4yCAgAEA0QBRAeMggIABANEAUQHjoHCCMQsAMQJzoHCAAQRxCwAzoECAAQHjoGCAAQChAeOggIABAFEAoQHjoICAAQFhAKEB46BQghEKABSgQIQRgASgQIRhgAUMkHWKYNYKcOaAFwAXgAgAGfAYgB2gWSAQMzLjSYAQCgAQHIAQnAAQE",
+        "sclient": "gws-wiz",
+        "date": "2022-05-04T00:29:30.406Z"
+    },
+    {
+        "title": "ajlkn/jquery.scrollex: Nifty scroll events for jQuery.",
+        "url": "https://github.com/ajlkn/jquery.scrollex",
+        "date": "2022-05-04T00:29:32.858Z"
+    },
+    {
+        "title": "emojis - Google Search",
+        "url": "https://www.google.com/search?q=emojis",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "oq": "emojis",
+        "aqs": "chrome..69i57j0i512j0i131i433i512j0i20i263i512j0i131i433i512j0i512l2j0i433i512j0i512.1024j0j1",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-04T00:39:15.040Z"
+    },
+    {
+        "title": "Copy ",
+        " Paste Cool Emojis for Free | Quicktools by Picsart": "",
+        "url": "https://tools.picsart.com/text/emojis/?utm_source=google",
+        "utm_medium": "ppc",
+        "utm_campaign": "16715762132",
+        "adgroupid": "138012589434",
+        "utm_term": "emoji",
+        "gclid": "Cj0KCQjwpcOTBhCZARIsAEAYLuXWTSMcMg--OCwMi8udIGHr4gqT_C3GF0ydyKQGKcffVVJGpsTWFhYaAlHpEALw_wcB",
+        "date": "2022-05-04T00:39:20.974Z"
+    },
+    {
+        "title": "royalty free images - Google Search",
+        "url": "https://www.google.com/search?q=royalty free images",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "oq": "royalty free images",
+        "aqs": "chrome.0.0i433i512j0i512l9.2560j0j1",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-04T00:41:48.946Z"
+    },
+    {
+        "title": "Beautiful Free Images ",
+        " Pictures | Unsplash": "",
+        "url": "https://unsplash.com/",
+        "date": "2022-05-04T00:41:52.266Z"
+    },
+    {
+        "title": "developer images - Google Search",
+        "url": "https://www.google.com/search?q=developer images",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "oq": "developer images",
+        "aqs": "chrome..69i57j0i433i512j46i10i175i199i512j0i433i512l3j0i131i433i512l2j0i433i512l2.1888j0j1",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-04T00:48:25.321Z"
+    },
+    {
+        "title": "postgres - Google Search",
+        "url": "https://www.google.com/search?q=postgres",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "sxsrf": "ALiCzsZM3uatp3pgQcPNB0Ac2K0-BV_Yfw:1651625304314",
+        "ei": "WM1xYvnkEtiqtQbHhrP4BQ",
+        "ved": "0ahUKEwj58MLcz8T3AhVYVc0KHUfDDF8Q4dUDCA8",
+        "uact": "5",
+        "oq": "postgres",
+        "gs_lcp": "Cgdnd3Mtd2l6EAMyBAgjECcyBAgjECcyBAgjECcyBwgAELEDEEMyBQgAEJECMgUIABCRAjIFCAAQkQIyBQgAEJECMgQIABBDMhAIABCABBCHAhCxAxCDARAUOgcIABBHELADOgcIABCwAxBDOg0ILhDHARDRAxCwAxBDOggILhCABBDUAjoKCAAQsQMQgwEQQzoOCC4QgAQQsQMQxwEQowI6EQguEIAEELEDEIMBEMcBENEDOgoILhCxAxCDARBDOggIABCABBDJAzoICAAQsQMQkQI6BQgAEJIDOgsILhCSAxDHARCvAToHCAAQyQMQQ0oECEEYAEoECEYYAFDJCVj3EWCIE2gDcAF4AIABZ4gB-gSSAQM2LjKYAQCgAQHIAQrAAQE",
+        "sclient": "gws-wiz",
+        "date": "2022-05-04T00:48:43.608Z"
+    },
+    {
+        "title": "postgres - Google Search",
+        "url": "https://www.google.com/search?q=postgres",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "sxsrf": "ALiCzsb0R1cN_YI1M4gkLAk5ZbS7fX7ibQ:1651625321014",
+        "source": "lnms",
+        "tbm": "isch",
+        "sa": "X",
+        "ved": "2ahUKEwiVnr7kz8T3AhXUaM0KHQ2ZATsQ_AUoA3oECAIQBQ",
+        "biw": "1920",
+        "bih": "912",
+        "dpr": "1",
+        "date": "2022-05-04T00:48:46.390Z"
+    },
+    {
+        "title": "PostgreSQL: Open Source Databases | OVHcloud",
+        "url": "https://www.ovhcloud.com/asia/public-cloud/postgresql/",
+        "date": "2022-05-04T00:49:00.495Z"
+    },
+    {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/",
+        "date": "2022-05-04T00:50:41.406Z"
+    },
+    {
+        "title": "the pirate bay - Google Search",
+        "url": "https://www.google.com/search?q=the pirate bay",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "oq": "the pirate bay",
+        "aqs": "chrome..69i57j0i512l7j46i512j0i512.2144j0j1",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-04T01:07:12.962Z"
+    },
+    {
+        "title": "Download music, movies, games, software! The Pirate Bay - The galaxy's most resilient BitTorrent site",
+        "url": "https://thepiratebay.org/index.html",
+        "date": "2022-05-04T01:07:15.898Z"
+    },
+    {
+        "title": "The Pirate Bay - The galaxy's most resilient bittorrent site",
+        "url": "https://thepiratebay.org/search.php?q=oblivion",
+        "all": "on",
+        "search": "Pirate Search",
+        "page": "0",
+        "orderby": "",
+        "date": "2022-05-04T01:09:46.638Z"
+    },
+    {
+        "title": "The Pirate Bay - The galaxy's most resilient bittorrent site",
+        "url": "https://thepiratebay.org/description.php?id=17853794",
+        "date": "2022-05-04T01:09:55.522Z"
+    },
+    {
+        "title": "Download DailyTab",
+        "url": "https://as.zoicanh.icu/ur/homr?cid=8456126",
+        "magnet": "magnet:?xt=urn:btih:23C8467227E53AE940BC22423FB2D603B9B4FF7C&dn=The%20Elder%20Scrolls%20IV%3A%20Oblivion%20Game%20of%20the%20Year%20Edition%20Deluxe%20v&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2780%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2730%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=http%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce",
+        "uu": "lIaJhrzOpHZ7hXZ7d3uNdXh7gHg=",
+        "date": "2022-05-04T01:10:05.349Z"
+    },
+    {
+        "title": "Your McAfee License has Expired!",
+        "url": "https://agreeablewebprotector.store/red/r02/mcafee/8index.php?cep=mAQzCO6Rx1XSlDvj7PWEVB2jBdk_4UlE9tFV_C26cemsA8pitug690wbLV-NH-Ywt5zFaDC97PMQoowzKhf_za0W_MvErutQLTVq-xx6FB9fYzY-A-WhEliP_-bgAZow3DMHuZ2kwuRABkDI57xePaTKph6fhD0vg7sa-pVZFGP2c6BasT3ag_dIblQh8fzbWHO6LW9_aXstKIVRybRspHDMuwrtU8LFBLO1BeHIu6ofj6zHJ7rToSLfEnd6I-xZOXfVk1S1cjZXwOQt429DmjYejJh-hYQhMXw3t4UVc0NZuoFvR363ilZ9yjOM0bU3G6B7RzwNQHbvGLCd8SQaXyH1Ox2-_2PdEOCaPWruUygQ7dwCL2hAbfyS-Uvm2m8gwCMT5uK7xkvgyTprfhwXjdqkeDi7Xc1tgsx3YVd67mseZFI03V_ZimjhAwsPTvHavPKMkB3c8hg1ImngIF3EmwETtCYGgBMKNYvMR6Bz9G8IEvetJ9sSTcmHG0k2i-cpJP61OWrbldAyGZ-4al5jgOf4xzY0TV7doqlRvKmhpXDtDrPTAWFWDmrNfbxquY-mWye-Zm88_FM4z9smBMfOLUOIScLHf2hXQMNtN-L4BuWiKw6VggESx2ZHZdlXaNFeScfrxRmrvSuhztPXU3vzEdEh-Y0dS3jkxfqBzMXFSC5h5PP31KSynU5gk8gzAqYQ",
+        "lptoken": "165e51eb625185a310e6",
+        "typ": "typ",
+        "placementname": "96009_US_McAfeeDSK_LeaveBehind",
+        "bid": "4.01",
+        "size": "1024x768",
+        "channel": "Technology & Computing",
+        "subchannel": "Other",
+        "medianame": "US_McAfee_LeaveBehind_002",
+        "keywords": "",
+        "Pid": "96009",
+        "siteid": "15753",
+        "cpv": "0.00401",
+        "s2sParam": "8564f070-ffda-44e5-a685-273f8ce6a230",
+        "date": "2022-05-04T01:11:51.672Z"
+    },
+    {
+        "title": "Download DailyTab",
+        "url": "https://as.zoicanh.icu/ur/homr?cid=7386837",
+        "magnet": "magnet:?xt=urn:btih:23C8467227E53AE940BC22423FB2D603B9B4FF7C&dn=The%20Elder%20Scrolls%20IV%3A%20Oblivion%20Game%20of%20the%20Year%20Edition%20Deluxe%20v&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2780%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2730%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=http%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce",
+        "uu": "lIaJhrzOpHZ7hXZ7d3uOdnh3iHw=",
+        "date": "2022-05-04T01:11:54.697Z"
+    },
+    {
+        "title": "The Pirate Bay - The galaxy's most resilient bittorrent site",
+        "url": "https://thepiratebay.org/search.php?q=user:dauphong",
+        "date": "2022-05-04T01:12:07.778Z"
+    },
+    {
+        "title": "The Pirate Bay - The galaxy's most resilient bittorrent site",
+        "url": "https://thepiratebay.org/description.php?id=17853794",
+        "date": "2022-05-04T01:12:10.681Z"
+    },
+    {
+        "title": "The Pirate Bay - The galaxy's most resilient bittorrent site",
+        "url": "https://thepiratebay.org/search.php?q=oblivion",
+        "all": "on",
+        "search": "Pirate Search",
+        "page": "0",
+        "orderby": "",
+        "date": "2022-05-04T01:14:11.497Z"
+    },
+    {
+        "title": "The Pirate Bay - The galaxy's most resilient bittorrent site",
+        "url": "https://thepiratebay.org/search.php?q=mastercam",
+        "cat": "0",
+        "date": "2022-05-04T01:14:43.769Z"
+    },
+    {
+        "title": "The Pirate Bay - The galaxy's most resilient bittorrent site",
+        "url": "https://thepiratebay.org/search.php?q=oblivion",
+        "cat": "0",
+        "date": "2022-05-04T01:15:49.367Z"
+    },
+    {
+        "title": "The Pirate Bay - The galaxy's most resilient bittorrent site",
+        "url": "https://thepiratebay.org/description.php?id=17853794",
+        "date": "2022-05-04T01:15:57.264Z"
+    },
+    {
+        "title": "Download DailyTab",
+        "url": "https://as.zoicanh.icu/ur/homr?cid=4024812",
+        "magnet": "magnet:?xt=urn:btih:23C8467227E53AE940BC22423FB2D603B9B4FF7C&dn=The%20Elder%20Scrolls%20IV%3A%20Oblivion%20Game%20of%20the%20Year%20Edition%20Deluxe%20v&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2780%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2730%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=http%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce",
+        "uu": "lIaJhrzOpHZ7hXZ7d3uQe3t1h3k=",
+        "date": "2022-05-04T01:16:06.497Z"
+    },
+    {
+        "title": "Safety Downloading",
+        "url": "https://www.online-user-protector.com/download-guard/?hm=true",
+        "trvid": "10666",
+        "externalid": "102fdb32d84b0d2cdf1578517445fd",
+        "var1": "460",
+        "override_all": "true",
+        "date": "2022-05-04T01:16:47.878Z"
+    },
+    {
+        "title": "Download DailyTab",
+        "url": "https://as.zoicanh.icu/ur/homr?cid=1625495",
+        "magnet": "magnet:?xt=urn:btih:23C8467227E53AE940BC22423FB2D603B9B4FF7C&dn=The%20Elder%20Scrolls%20IV%3A%20Oblivion%20Game%20of%20the%20Year%20Edition%20Deluxe%20v&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2780%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2730%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=http%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce",
+        "uu": "lIaJhrzOpHZ7hXZ7d3yHd3p9gH4=",
+        "date": "2022-05-04T01:17:06.228Z"
+    },
+    {
+        "title": "The Pirate Bay - The galaxy's most resilient bittorrent site",
+        "url": "https://thepiratebay.org/search.php?q=category:400",
+        "date": "2022-05-04T01:17:13.430Z"
+    },
+    {
+        "title": "The Pirate Bay - The galaxy's most resilient bittorrent site",
+        "url": "https://thepiratebay.org/description.php?id=17853794",
+        "date": "2022-05-04T01:23:46.440Z"
+    },
+    {
+        "title": "Safety Downloading",
+        "url": "https://www.online-user-protector.com/download-guard/?hm=true",
+        "trvid": "10666",
+        "externalid": "102fdb32d84b0d2cdf1578517445fd",
+        "var1": "460",
+        "override_all": "true",
+        "date": "2022-05-04T01:23:59.265Z"
+    },
+    {
+        "title": "Safety Downloading",
+        "url": "https://www.online-user-protector.com/download-guard/?hm=true",
+        "trvid": "10666",
+        "externalid": "102fdb32d84b0d2cdf1578517445fd",
+        "var1": "460",
+        "override_all": "true",
+        "date": "2022-05-04T01:24:02.374Z"
+    },
+    {
+        "title": "Download DailyTab",
+        "url": "https://as.zoicanh.icu/ur/homr?cid=8652121",
+        "magnet": "magnet:?xt=urn:btih:23C8467227E53AE940BC22423FB2D603B9B4FF7C&dn=The%20Elder%20Scrolls%20IV%3A%20Oblivion%20Game%20of%20the%20Year%20Edition%20Deluxe%20v&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2780%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2730%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=http%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce",
+        "uu": "lIaJhrzOpHZ7hXZ7d3yLeXp1gn4=",
+        "date": "2022-05-04T01:24:05.528Z"
+    },
+    {
+        "title": "in browser torrent - Google Search",
+        "url": "https://www.google.com/search?q=in browser torrent",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "oq": "in browser torrent",
+        "aqs": "chrome..69i57.3072j0j1",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-04T01:24:21.052Z"
+    },
+    {
+        "title": "βTorrent: Browser WebTorrent Client",
+        "url": "https://btorrent.xyz/",
+        "date": "2022-05-04T01:24:24.692Z"
+    },
+    {
+        "title": "βTorrent: Browser WebTorrent Client",
+        "url": "https://btorrent.xyz/",
+        "date": "2022-05-04T01:27:51.644Z"
+    },
+    {
+        "title": "in browser torrent - Google Search",
+        "url": "https://www.google.com/search?q=in browser torrent",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "oq": "in browser torrent",
+        "aqs": "chrome..69i57.3072j0j1",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-04T01:27:58.854Z"
+    },
+    {
+        "title": "WebTorrent - Streaming browser torrent client",
+        "url": "https://webtorrent.io/",
+        "date": "2022-05-04T01:28:01.793Z"
+    },
+    {
+        "title": "WebTorrent Desktop - Streaming torrent app for Mac, Windows, and Linux",
+        "url": "https://webtorrent.io/desktop/",
+        "date": "2022-05-04T01:28:06.628Z"
+    },
+    {
+        "title": "Thank you for downloading WebTorrent",
+        "url": "https://webtorrent.io/desktop-download/windows",
+        "date": "2022-05-04T01:28:07.856Z"
+    },
+    {
+        "title": "WebTorrent - Streaming browser torrent client",
+        "url": "https://webtorrent.io/",
+        "date": "2022-05-04T01:28:27.063Z"
+    },
+    {
+        "title": "9 Ways to Download Torrents if You Can't Install and Run a Torrent Client • Raymond.CC",
+        "url": "https://www.raymond.cc/blog/how-to-download-torrent-if-you-cant-install-and-run-bittorrent-client/",
+        "date": "2022-05-04T01:28:32.727Z"
+    },
+    {
+        "title": "jstorrent - Google Search",
+        "url": "https://www.google.com/search?q=jstorrent",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "oq": "jstorrent",
+        "aqs": "chrome..69i57j0i512l4j0i20i263i512j0i512l4.1232j0j1",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-04T01:28:42.498Z"
+    },
+    {
+        "title": "The Pirate Bay - The galaxy's most resilient bittorrent site",
+        "url": "https://thepiratebay.org/search.php?q=oblivion",
+        "cat": "0",
+        "date": "2022-05-04T02:09:49.551Z"
+    },
+    {
+        "title": "The Pirate Bay - The galaxy's most resilient bittorrent site",
+        "url": "https://thepiratebay.org/description.php?id=4120552",
+        "date": "2022-05-04T02:09:59.684Z"
+    },
+    {
+        "title": "My Drive - Google Drive",
+        "url": "https://drive.google.com/drive/u/0/my-drive",
+        "date": "2022-05-04T03:18:36.719Z"
     }
 ]

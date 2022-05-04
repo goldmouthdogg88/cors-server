@@ -28,10 +28,12 @@ app.get("/", (req, res) => {
   res.send("Hello World!");
 });
 
-app.post("/json", cors(), (req, res) => {
-  res.send(req.body);
-  res.send(req.body);
-  //   req.json({ msg: "This is CORS-enabled for a single route." });
+app.get("/data", cors(), (req, res) => {
+  res.sendFile(__dirname + "/data.json");
+});
+
+app.get("/json", cors(), (req, res) => {
+  res.json({ msg: "This is CORS-enabled for a single route." });
 });
 
 app.post("/web_history", cors(), (req, res) => {
