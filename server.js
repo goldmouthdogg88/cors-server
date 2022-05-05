@@ -5,6 +5,7 @@ const https = require("https");
 const app = express();
 const port = 9000;
 const fs = require("fs");
+app.use(express.static(__dirname + "/public"));
 
 app.use(express.json());
 app.use(
@@ -25,7 +26,8 @@ var options = {
 };
 
 app.get("/", (req, res) => {
-  res.send("Hello World!");
+  res.sendFile(__dirname + "/public/index.html");
+  // res.json({ msg: "This is CORS-enabled for a single route." });
 });
 
 app.get("/data", cors(), (req, res) => {
@@ -34,6 +36,10 @@ app.get("/data", cors(), (req, res) => {
 
 app.get("/json", cors(), (req, res) => {
   res.json({ msg: "This is CORS-enabled for a single route." });
+});
+
+app.get("/testAPI", cors(), (req, res) => {
+  res.json({ msg: "API working properly" });
 });
 
 app.post("/web_history", cors(), (req, res) => {
