@@ -4557,5 +4557,1346 @@
         "title": "LF will be replaced by CRLF in git - What is that and is it important? - Stack Overflow",
         "url": "https://stackoverflow.com/questions/5834014/lf-will-be-replaced-by-crlf-in-git-what-is-that-and-is-it-important",
         "date": "2022-05-05T04:47:09.441Z"
+    },
+    {
+        "title": "Google",
+        "url": "https://www.google.com/",
+        "date": "2022-05-06T19:12:36.468Z"
+    },
+    {
+        "title": "Sign in - Google Accounts",
+        "url": "https://accounts.google.com/signin/v2/identifier?ec=hpp_signin_001",
+        "flowName": "GlifWebSignIn",
+        "flowEntry": "ServiceLogin",
+        "date": "2022-05-06T19:12:45.497Z"
+    },
+    {
+        "title": "Google Account",
+        "url": "https://myaccount.google.com/?utm_source=sign_in_no_continue",
+        "pli": "1",
+        "date": "2022-05-06T19:12:59.543Z"
+    },
+    {
+        "title": "Extension Activation",
+        "url": "https://www.gitpod.io/extension-activation?track=true",
+        "date": "2022-05-06T19:13:03.518Z"
+    },
+    {
+        "title": "gitpod - Google Search",
+        "url": "https://www.google.com/search?q=gitpod",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "oq": "gitpod",
+        "aqs": "chrome..69i57j35i39j0i20i263i512j0i512l6j46i175i199i512.1344j0j1",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-06T19:15:49.012Z"
+    },
+    {
+        "title": "build an extension for firefox - Google Search",
+        "url": "https://www.google.com/search?q=build an extension for firefox",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "oq": "build an extension for firefox",
+        "aqs": "chrome..69i57j0i22i30.4097j0j1",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-06T19:17:13.817Z"
+    },
+    {
+        "title": "Your first extension - Mozilla | MDN",
+        "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Your_first_WebExtension",
+        "date": "2022-05-06T19:17:15.022Z"
+    },
+    {
+        "title": "dataquest - Google Search",
+        "url": "https://www.google.com/search?q=dataquest",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "oq": "dataquest",
+        "aqs": "chrome..69i57j0i512l9.2464j0j1",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-06T19:17:39.765Z"
+    },
+    {
+        "title": "Dataquest: Learn Data Science — Python, R, SQL, PowerBI",
+        "url": "https://www.dataquest.io/",
+        "date": "2022-05-06T19:17:41.474Z"
+    },
+    {
+        "title": "datacamp - Google Search",
+        "url": "https://www.google.com/search?q=datacamp",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "oq": "datacamp",
+        "aqs": "chrome..69i57j46i39i199i465j0i67l3j0i131i433i512j0i433i512j0i67i433j0i67.1504j0j1",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-06T19:17:47.722Z"
+    },
+    {
+        "title": "Inbox (235) - goldmouthdogg88@gmail.com - Gmail",
+        "url": "https://mail.google.com/mail/u/0/#inbox",
+        "date": "2022-05-06T19:17:54.642Z"
+    },
+    {
+        "title": "Learn R, Python ",
+        " Data Science Online | DataCamp": "",
+        "url": "https://www.datacamp.com/",
+        "date": "2022-05-06T19:18:09.105Z"
+    },
+    {
+        "title": "Sign in | DataCamp",
+        "url": "https://www.datacamp.com/users/sign_in",
+        "date": "2022-05-06T19:18:12.758Z"
+    },
+    {
+        "title": "DataCamp Learn",
+        "url": "https://app.datacamp.com/learn",
+        "date": "2022-05-06T19:18:17.480Z"
+    },
+    {
+        "title": "Beginning your SQL journey | SQL",
+        "url": "https://campus.datacamp.com/courses/introduction-to-sql/selecting-columns?ex=6",
+        "date": "2022-05-06T19:19:01.480Z"
+    },
+    {
+        "title": "",
+        "url": "https://api.daily.dev/r/7EN5c1KJ1",
+        "date": "2022-05-06T19:19:38.513Z"
+    },
+    {
+        "title": "postgresml/postgresml: PostgresML is an end-to-end machine learning system. It enables you to train models and make online predictions using only SQL, without your data ever leaving your favorite database.",
+        "url": "https://github.com/postgresml/postgresml",
+        "date": "2022-05-06T19:19:39.734Z"
+    },
+    {
+        "title": "Inbox (235) - goldmouthdogg88@gmail.com - Gmail",
+        "url": "https://mail.google.com/mail/u/0/#inbox",
+        "date": "2022-05-06T19:21:07.161Z"
+    },
+    {
+        "title": "Gmail",
+        "url": "https://accounts.google.com/signin/v2/identifier?hl=en",
+        "continue": "https://mail.google.com",
+        "service": "mail",
+        "ec": "GAlAFw",
+        "flowName": "GlifWebSignIn",
+        "flowEntry": "AddSession",
+        "date": "2022-05-06T19:21:09.770Z"
+    },
+    {
+        "title": "Inbox (1,314) - dwilsoncnc@gmail.com - Gmail",
+        "url": "https://mail.google.com/mail/u/1/#inbox",
+        "date": "2022-05-06T19:21:33.041Z"
+    },
+    {
+        "title": "My Drive - Google Drive",
+        "url": "https://drive.google.com/drive/u/0/my-drive",
+        "date": "2022-05-06T19:24:12.909Z"
+    },
+    {
+        "title": "the pirate bay - Google Search",
+        "url": "https://www.google.com/search?q=the pirate bay",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "oq": "the pirate bay",
+        "aqs": "chrome..69i57j0i512l7j46i512j0i512.1504j0j1",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-06T19:25:35.975Z"
+    },
+    {
+        "title": "Download music, movies, games, software! The Pirate Bay - The galaxy's most resilient BitTorrent site",
+        "url": "https://thepiratebay.org/index.html",
+        "date": "2022-05-06T19:25:37.786Z"
+    },
+    {
+        "title": "the pirate bay - Google Search",
+        "url": "https://www.google.com/search?q=the pirate bay",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "oq": "the pirate bay",
+        "aqs": "chrome..69i57j0i512l7j46i512j0i512.1504j0j1",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-06T19:25:41.516Z"
+    },
+    {
+        "title": "Download music, movies, games, software! The Pirate Bay - The galaxy's most resilient BitTorrent site",
+        "url": "https://thepiratebay.org/index.html",
+        "date": "2022-05-06T19:25:48.155Z"
+    },
+    {
+        "title": "The Pirate Bay - The galaxy's most resilient bittorrent site",
+        "url": "https://thepiratebay.org/search.php?q=warcraft",
+        "games": "on",
+        "search": "Pirate Search",
+        "page": "0",
+        "orderby": "",
+        "date": "2022-05-06T19:26:16.565Z"
+    },
+    {
+        "title": "warsong gulch - Google Search",
+        "url": "https://www.google.com/search?q=warsong gulch",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "oq": "warsong gult",
+        "aqs": "chrome.1.69i57j0i10l9.3646j0j1",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-06T19:26:44.852Z"
+    },
+    {
+        "title": "GOG no admin - Google Search",
+        "url": "https://www.google.com/search?q=GOG no admin",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "oq": "GOG no admin",
+        "aqs": "chrome..69i57j69i64.2256j0j1",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-06T19:27:28.613Z"
+    },
+    {
+        "title": "No Admin rights, page 1 - Forum - GOG.com",
+        "url": "https://www.gog.com/forum/general/no_admin_rights",
+        "date": "2022-05-06T19:27:34.439Z"
+    },
+    {
+        "title": "GOG no admin - Google Search",
+        "url": "https://www.google.com/search?q=GOG no admin",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "oq": "GOG no admin",
+        "aqs": "chrome..69i57j69i64.2256j0j1",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-06T19:28:54.362Z"
+    },
+    {
+        "title": "How do you run the game WITHOUT admin rights?, page 1 - Forum - GOG.com",
+        "url": "https://www.gog.com/forum/stalker_series/how_do_you_run_the_game_without_admin_rights",
+        "date": "2022-05-06T19:28:59.599Z"
+    },
+    {
+        "title": "GOG.com",
+        "url": "https://www.gog.com/en",
+        "date": "2022-05-06T19:29:09.484Z"
+    },
+    {
+        "title": "GOG no admin - Google Search",
+        "url": "https://www.google.com/search?q=GOG no admin",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "oq": "GOG no admin",
+        "aqs": "chrome..69i57j69i64.2256j0j1",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-06T19:29:43.874Z"
+    },
+    {
+        "title": "why do I need GOG launcher - Google Search",
+        "url": "https://www.google.com/search?q=why do I need GOG launcher",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "sxsrf": "ALiCzsYTx4U4OGOHNpoOewAo8y1p5E9ysw:1651865247718",
+        "ei": "n3Z1Ysu-K5_F0PEPv7if-AE",
+        "ved": "0ahUKEwiLirrKzcv3AhWfIjQIHT_cBx8Q4dUDCA4",
+        "uact": "5",
+        "oq": "why do I need GOG launcher",
+        "gs_lcp": "Cgdnd3Mtd2l6EAMyBQghEKsCMgUIIRCrAjoHCCMQsAMQJzoHCAAQRxCwAzoECCMQJzoFCAAQkQI6CwgAEIAEELEDEIMBOggILhCABBCxAzoRCC4QgAQQsQMQgwEQxwEQowI6CwguEIAEELEDEIMBOgQIABBDOggIABCxAxCDAToFCAAQgAQ6CAgAEIAEELEDOggILhCABBDUAjoLCC4QsQMQgwEQ1AI6BggAEBYQHjoFCAAQhgM6CAgAEBYQChAeOgcIIRAKEKABOggIIRAWEB0QHjoFCCEQoAFKBAhBGABKBAhGGABQyAdYhyRghyVoA3ABeACAAWSIAcsNkgEEMjUuMZgBAKABAcgBCcABAQ",
+        "sclient": "gws-wiz",
+        "date": "2022-05-06T19:29:53.471Z"
+    },
+    {
+        "title": "GOG no admin - Google Search",
+        "url": "https://www.google.com/search?q=GOG no admin",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "oq": "GOG no admin",
+        "aqs": "chrome..69i57j69i64.2256j0j1",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-06T19:30:21.374Z"
+    },
+    {
+        "title": "GOGO - Google Search",
+        "url": "https://www.google.com/search?q=GOGO",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "oq": "GOGO",
+        "aqs": "chrome..69i57j0i271l3j69i59j69i60l2.448j0j9",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-06T19:30:25.517Z"
+    },
+    {
+        "title": "GOG - Google Search",
+        "url": "https://www.google.com/search?q=GOG",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "sxsrf": "ALiCzsbWQeoHdAP9Bu6Au0qkhNlBi4wuew:1651865424159",
+        "ei": "UHd1YqqoCYK2tAbL5oWwCQ",
+        "ved": "0ahUKEwiqkMuezsv3AhUCG80KHUtzAZYQ4dUDCA4",
+        "uact": "5",
+        "oq": "GOG",
+        "gs_lcp": "Cgdnd3Mtd2l6EAMyBAgAEEcyBAgAEEcyBAgAEEcyBAgAEEcyBAgAEEcyBAgAEEcyBAgAEEcyBAgAEEdKBAhBGABKBAhGGABQqwlYqwlg-wpoAHACeACAAQCIAQCSAQCYAQCgAQHIAQjAAQE",
+        "sclient": "gws-wiz",
+        "date": "2022-05-06T19:30:27.810Z"
+    },
+    {
+        "title": "GOG.com",
+        "url": "https://www.gog.com/",
+        "date": "2022-05-06T19:30:30.004Z"
+    },
+    {
+        "title": "My Drive - Google Drive",
+        "url": "https://drive.google.com/drive/u/1/my-drive",
+        "date": "2022-05-06T19:31:19.160Z"
+    },
+    {
+        "title": "Inbox (235) - goldmouthdogg88@gmail.com - Gmail",
+        "url": "https://mail.google.com/mail/u/0/#inbox",
+        "date": "2022-05-06T19:31:55.912Z"
+    },
+    {
+        "title": "Inbox (1,313) - dwilsoncnc@gmail.com - Gmail",
+        "url": "https://mail.google.com/mail/u/1/#inbox",
+        "date": "2022-05-06T19:31:59.825Z"
+    },
+    {
+        "title": "GOG.com",
+        "url": "https://www.gog.com/#",
+        "date": "2022-05-06T19:32:06.009Z"
+    },
+    {
+        "title": "GOG.com",
+        "url": "https://www.gog.com/#",
+        "date": "2022-05-06T19:32:40.137Z"
+    },
+    {
+        "title": "GOG.com",
+        "url": "https://www.gog.com/en/account",
+        "date": "2022-05-06T19:32:45.295Z"
+    },
+    {
+        "title": "My Drive - Google Drive",
+        "url": "https://drive.google.com/drive/u/0/my-drive",
+        "date": "2022-05-06T19:33:35.794Z"
+    },
+    {
+        "title": "gog galaxy download - Google Search",
+        "url": "https://www.google.com/search?q=gog galaxy download",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "oq": "GOG  GALA",
+        "aqs": "chrome.3.69i57j0i67i433j0i67j0i67i433j0i512l6.3775j0j4",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-06T19:35:12.251Z"
+    },
+    {
+        "title": "GOG GALAXY 2.0 - All your games and friends in one place.",
+        "url": "https://www.gog.com/galaxy",
+        "date": "2022-05-06T19:35:14.767Z"
+    },
+    {
+        "title": "change install location of GOG galaxy - Google Search",
+        "url": "https://www.google.com/search?q=change install location of GOG galaxy",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "oq": "change install location of GOG galaxy",
+        "aqs": "chrome..69i57j33i160j33i299.7839j0j4",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-06T19:38:14.995Z"
+    },
+    {
+        "title": "How to Change Default GOG Galaxy Install Location?, page 1 - Forum - GOG.com",
+        "url": "https://www.gog.com/forum/general/how_to_change_default_gog_galaxy_install_location",
+        "date": "2022-05-06T19:38:18.518Z"
+    },
+    {
+        "title": "change install location of GOG galaxy - Google Search",
+        "url": "https://www.google.com/search?q=change install location of GOG galaxy",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "oq": "change install location of GOG galaxy",
+        "aqs": "chrome..69i57j33i160j33i299.7839j0j4",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-06T19:38:30.663Z"
+    },
+    {
+        "title": "change temp folder location windows 10 - Google Search",
+        "url": "https://www.google.com/search?q=change temp folder location windows 10",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "sxsrf": "ALiCzsbi8iYi7Y-RHqaxzyWqXdTm8i-CzA:1651865894079",
+        "ei": "Jnl1YrW3BLHN0PEP-suYuAg",
+        "oq": "change temp",
+        "gs_lcp": "Cgdnd3Mtd2l6EAMYADIFCAAQkQIyBQgAEJECMgoIABCABBCHAhAUMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDoHCCMQsAMQJzoHCAAQRxCwAzoECCMQJzoECAAQQzoECC4QQzoICAAQsQMQgwE6CAgAEIAEELEDOhEILhCABBCxAxCDARDHARDRAzoRCC4QgAQQsQMQgwEQxwEQowI6DgguEIAEELEDEMcBENEDOgsIABCABBCxAxCDAToICAAQgAQQyQM6BQgAEJIDOggILhCABBCxAzoOCAAQgAQQsQMQgwEQyQM6CwguEIAEELEDENQCSgQIQRgASgQIRhgAUOEJWM8YYL8qaANwAXgAgAFtiAHIBZIBBDEwLjGYAQCgAQHIAQnAAQE",
+        "sclient": "gws-wiz",
+        "date": "2022-05-06T19:38:43.507Z"
+    },
+    {
+        "title": "How to Move Windows’ Temporary Folders to Another Drive",
+        "url": "https://www.howtogeek.com/285710/how-to-move-windows-temporary-folders-to-another-drive/",
+        "date": "2022-05-06T19:38:51.366Z"
+    },
+    {
+        "title": "how to decompile an exe - Google Search",
+        "url": "https://www.google.com/search?q=how to decompile an exe",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "oq": "how to decomplie",
+        "aqs": "chrome.1.69i57j0i10l9.6463j0j1",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-06T19:41:24.764Z"
+    },
+    {
+        "title": "debugging - Is it possible to \"decompile\" a Windows .exe? Or at least view the Assembly? - Stack Overflow",
+        "url": "https://stackoverflow.com/questions/273145/is-it-possible-to-decompile-a-windows-exe-or-at-least-view-the-assembly",
+        "date": "2022-05-06T19:41:26.664Z"
+    },
+    {
+        "title": "how to find information about a piece of software - Google Search",
+        "url": "https://www.google.com/search?q=how to find information about a piece of software",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "oq": "how to find information about a piece of software",
+        "aqs": "chrome..69i57j33i160.7489j0j1",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-06T19:45:03.276Z"
+    },
+    {
+        "title": "how to change the location of where software installs - Google Search",
+        "url": "https://www.google.com/search?q=how to change the location of where software installs",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "oq": "how to change the location of where software installs",
+        "aqs": "chrome..69i57j33i160l2.9648j0j1",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-06T19:45:15.916Z"
+    },
+    {
+        "title": "3 Ways To Move Installed Programs To Another Location In Windows 10",
+        "url": "https://www.itechtics.com/3-ways-move-installed-programs-another-location-windows-10/",
+        "date": "2022-05-06T19:45:27.045Z"
+    },
+    {
+        "title": "how to change the location of where software installs - Google Search",
+        "url": "https://www.google.com/search?q=how to change the location of where software installs",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "oq": "how to change the location of where software installs",
+        "aqs": "chrome..69i57j33i160l2.9648j0j1",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-06T19:45:55.883Z"
+    },
+    {
+        "title": "GOG galaxy .zip - Google Search",
+        "url": "https://www.google.com/search?q=GOG galaxy .zip",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "sxsrf": "ALiCzsZ_2q_BNHFOxIcWC1lrhaHCcr_FvQ:1651866313980",
+        "ei": "yXp1Yuu0O-vB7gKYy4moBQ",
+        "ved": "0ahUKEwirvfHG0cv3AhXroFsKHZhlAlUQ4dUDCA4",
+        "uact": "5",
+        "oq": "GOG galaxy .zip",
+        "gs_lcp": "Cgdnd3Mtd2l6EAMyBggAEBYQHjIFCAAQhgMyBQgAEIYDMgUIABCGAzIFCAAQhgMyBQgAEIYDOgcIABBHELADOgQIIxAnOgUIABCRAjoQCC4QsQMQgwEQxwEQ0QMQQzoICAAQgAQQsQM6BQgAEIAEOgQIABBDOgoILhDHARDRAxBDOhAILhCxAxCDARDHARDRAxAKOgoIABCABBCHAhAUOgcIABCxAxAKOgcIABCxAxBDOg0IABCABBCHAhCxAxAUOgcIIxCxAhAnOgQIABAKSgQIQRgASgQIRhgAUKYNWOYoYJcqaARwAXgAgAFTiAGwCJIBAjE2mAEAoAEByAEIwAEB",
+        "sclient": "gws-wiz",
+        "date": "2022-05-06T19:46:06.274Z"
+    },
+    {
+        "title": "Offer a zip file of the installed files. - GOG.com",
+        "url": "https://www.gog.com/wishlist/site/offer_a_zip_file_of_the_installed_files",
+        "date": "2022-05-06T19:46:10.835Z"
+    },
+    {
+        "title": "GOG galaxy .zip - Google Search",
+        "url": "https://www.google.com/search?q=GOG galaxy .zip",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "sxsrf": "ALiCzsZ_2q_BNHFOxIcWC1lrhaHCcr_FvQ:1651866313980",
+        "ei": "yXp1Yuu0O-vB7gKYy4moBQ",
+        "ved": "0ahUKEwirvfHG0cv3AhXroFsKHZhlAlUQ4dUDCA4",
+        "uact": "5",
+        "oq": "GOG galaxy .zip",
+        "gs_lcp": "Cgdnd3Mtd2l6EAMyBggAEBYQHjIFCAAQhgMyBQgAEIYDMgUIABCGAzIFCAAQhgMyBQgAEIYDOgcIABBHELADOgQIIxAnOgUIABCRAjoQCC4QsQMQgwEQxwEQ0QMQQzoICAAQgAQQsQM6BQgAEIAEOgQIABBDOgoILhDHARDRAxBDOhAILhCxAxCDARDHARDRAxAKOgoIABCABBCHAhAUOgcIABCxAxAKOgcIABCxAxBDOg0IABCABBCHAhCxAxAUOgcIIxCxAhAnOgQIABAKSgQIQRgASgQIRhgAUKYNWOYoYJcqaARwAXgAgAFTiAGwCJIBAjE2mAEAoAEByAEIwAEB",
+        "sclient": "gws-wiz",
+        "date": "2022-05-06T19:46:27.863Z"
+    },
+    {
+        "title": "how to modify an exe file - Google Search",
+        "url": "https://www.google.com/search?q=how to modify an exe file",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "sxsrf": "ALiCzsZfGlWdYqoLyNrSDtWC0vS_kIscSw:1651866365481",
+        "ei": "_Xp1YtPsHIOD0PEPuJ2MsA0",
+        "ved": "0ahUKEwiT37jf0cv3AhWDATQIHbgOA9YQ4dUDCA4",
+        "uact": "5",
+        "oq": "how to modify an exe file",
+        "gs_lcp": "Cgdnd3Mtd2l6EAMyBQgAEIAEMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBQgAEIYDMgUIABCGAzoHCAAQsAMQHjoICAAQsAMQhgM6BAgjECc6BQgAEJECOhEILhCABBCxAxCDARDHARCjAjoKCC4QxwEQ0QMQQzoLCAAQgAQQsQMQgwE6CAgAEIAEELEDOg4ILhCABBCxAxDHARCjAjoECAAQQzoKCAAQgAQQhwIQFDoICC4QgAQQsQM6DQgAEIAEEIcCELEDEBQ6CAgAEIAEEMkDSgQIQRgBSgQIRhgAUL8IWL4vYJAwaANwAHgAgAFOiAGRDJIBAjI1mAEAoAEByAEFwAEB",
+        "sclient": "gws-wiz",
+        "date": "2022-05-06T19:46:35.826Z"
+    },
+    {
+        "title": "How to edit an .exe file - Quora",
+        "url": "https://www.quora.com/How-can-I-edit-an-exe-file",
+        "date": "2022-05-06T19:46:37.397Z"
+    },
+    {
+        "title": "How can I edit an .exe file? - Quora",
+        "url": "https://www.quora.com/How-can-I-edit-an-exe-file",
+        "date": "2022-05-06T19:46:40.472Z"
+    },
+    {
+        "title": "how to modify an exe file - Google Search",
+        "url": "https://www.google.com/search?q=how to modify an exe file",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "sxsrf": "ALiCzsZfGlWdYqoLyNrSDtWC0vS_kIscSw:1651866365481",
+        "ei": "_Xp1YtPsHIOD0PEPuJ2MsA0",
+        "ved": "0ahUKEwiT37jf0cv3AhWDATQIHbgOA9YQ4dUDCA4",
+        "uact": "5",
+        "oq": "how to modify an exe file",
+        "gs_lcp": "Cgdnd3Mtd2l6EAMyBQgAEIAEMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBQgAEIYDMgUIABCGAzoHCAAQsAMQHjoICAAQsAMQhgM6BAgjECc6BQgAEJECOhEILhCABBCxAxCDARDHARCjAjoKCC4QxwEQ0QMQQzoLCAAQgAQQsQMQgwE6CAgAEIAEELEDOg4ILhCABBCxAxDHARCjAjoECAAQQzoKCAAQgAQQhwIQFDoICC4QgAQQsQM6DQgAEIAEEIcCELEDEBQ6CAgAEIAEEMkDSgQIQRgBSgQIRhgAUL8IWL4vYJAwaANwAHgAgAFOiAGRDJIBAjI1mAEAoAEByAEFwAEB",
+        "sclient": "gws-wiz",
+        "date": "2022-05-06T19:47:41.144Z"
+    },
+    {
+        "title": "decompile exe file - Google Search",
+        "url": "https://www.google.com/search?q=decompile exe file",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "sxsrf": "ALiCzsalZPRjByeUH_kM2NWn0G-378fWrQ:1651866394841",
+        "ei": "Gnt1Ysv7Mu290PEPr5K-6AE",
+        "oq": "how to modify an exe file",
+        "gs_lcp": "Cgdnd3Mtd2l6EAMYADIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwA0oECEEYAEoECEYYAFAAWABgny1oA3ABeACAAQCIAQCSAQCYAQDIAQjAAQE",
+        "sclient": "gws-wiz",
+        "date": "2022-05-06T19:47:48.436Z"
+    },
+    {
+        "title": "How can I decompile a.EXE file to get the source code : HowToHack",
+        "url": "https://www.reddit.com/r/HowToHack/comments/b36vqa/how_can_i_decompile_aexe_file_to_get_the_source/",
+        "date": "2022-05-06T19:47:53.790Z"
+    },
+    {
+        "title": "radare2 - Google Search",
+        "url": "https://www.google.com/search?q=radare2",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-06T19:48:19.600Z"
+    },
+    {
+        "title": "",
+        "url": "https://rada.re/",
+        "date": "2022-05-06T19:48:24.876Z"
+    },
+    {
+        "title": "radare",
+        "url": "https://rada.re/n/",
+        "date": "2022-05-06T19:48:25.811Z"
+    },
+    {
+        "title": "radareorg/radare2: UNIX-like reverse engineering framework and command-line toolset",
+        "url": "https://github.com/radareorg/radare2",
+        "date": "2022-05-06T19:48:34.630Z"
+    },
+    {
+        "title": "r2env is not recognized as an internal or external command operable program or batch file - Google Search",
+        "url": "https://www.google.com/search?q=r2env is not recognized as an internal or external command operable program or batch file",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "oq": "r2env is not reco",
+        "aqs": "chrome.2.69i57j33i160l3j33i299.5903j0j1",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-06T19:50:46.283Z"
+    },
+    {
+        "title": "radareorg/r2env: Install multiple versions of r2 and its plugins via Pip on any system!",
+        "url": "https://github.com/radareorg/r2env",
+        "date": "2022-05-06T19:50:51.057Z"
+    },
+    {
+        "title": "make vs gnu make - Google Search",
+        "url": "https://www.google.com/search?q=make vs gnu make",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "oq": "make vs gnumake",
+        "aqs": "chrome.1.69i57j0i13j0i10i22i30j0i5i13i30l2j0i8i13i30.3071j0j1",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-06T19:52:50.617Z"
+    },
+    {
+        "title": "gnu make gitbash - Google Search",
+        "url": "https://www.google.com/search?q=gnu make gitbash",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "oq": "gnu make gitbash",
+        "aqs": "chrome..69i57j0i22i30j0i390l4.2304j0j1",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-06T19:52:54.321Z"
+    },
+    {
+        "title": "how to add more utilities to git bash for windows, wget, make",
+        "url": "https://gist.github.com/evanwill/0207876c3243bbb6863e65ec5dc3f058",
+        "date": "2022-05-06T19:52:56.636Z"
+    },
+    {
+        "title": "Ghidra",
+        "url": "https://ghidra-sre.org/",
+        "date": "2022-05-06T19:57:33.331Z"
+    },
+    {
+        "title": "Releases · NationalSecurityAgency/ghidra",
+        "url": "https://github.com/NationalSecurityAgency/ghidra/releases",
+        "date": "2022-05-06T19:57:57.247Z"
+    },
+    {
+        "title": "how to compile program in visual studio - Google Search",
+        "url": "https://www.google.com/search?q=how to compile program in visual studio",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "oq": "how to compile software with visual",
+        "aqs": "chrome.1.69i57j0i22i30l3j0i390l4.4959j0j1",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-06T19:58:26.808Z"
+    },
+    {
+        "title": "how to compile software - Google Search",
+        "url": "https://www.google.com/search?q=how to compile software",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "oq": "how to compile software",
+        "aqs": "chrome..69i57j0i512j69i59j0i512l2j0i22i30l4j0i390.2416j0j1",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-06T19:58:29.797Z"
+    },
+    {
+        "title": "Anyone can compile open source code in these three simple steps | Opensource.com",
+        "url": "https://opensource.com/article/21/11/compiling-code",
+        "date": "2022-05-06T19:58:35.961Z"
+    },
+    {
+        "title": "how to compile software linux - Google Search",
+        "url": "https://www.google.com/search?q=how to compile software linux",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "oq": "how to compile software linux",
+        "aqs": "chrome..69i57j0i22i30l4j0i390l3.3488j0j1",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-06T19:58:57.686Z"
+    },
+    {
+        "title": "how to compile source code - Google Search",
+        "url": "https://www.google.com/search?q=how to compile source code",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "sxsrf": "ALiCzsaSqdSh56euOVMzWIcWTcqGTTltrA:1651867136542",
+        "ei": "AH51YvDfIM20tQbsmqGYCw",
+        "ved": "0ahUKEwjw347P1Mv3AhVNWs0KHWxNCLMQ4dUDCA4",
+        "uact": "5",
+        "oq": "how to compile source code",
+        "gs_lcp": "Cgdnd3Mtd2l6EAMyCggAEIAEEIcCEBQyCggAEIAEEIcCEBQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDoHCAAQRxCwAzoECCMQJzoECAAQQzoFCAAQkQI6EQguEIAEELEDEIMBEMcBEKMCOgsIABCABBCxAxCDAToHCAAQgAQQCkoECEEYAEoECEYYAFD_OFjeT2DPVWgBcAF4AIABTYgB-QqSAQIyNpgBAKABAcgBCMABAQ",
+        "sclient": "gws-wiz",
+        "date": "2022-05-06T19:59:23.429Z"
+    },
+    {
+        "title": "how to compile source code linux foundation - Google Search",
+        "url": "https://www.google.com/search?q=how to compile source code linux foundation",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "sxsrf": "ALiCzsapvafV4som2fwoeGtau3JUEJ-hmg:1651867162472",
+        "ei": "Gn51Yoe6HMnKtQae5pu4BQ",
+        "ved": "0ahUKEwiHr73b1Mv3AhVJZc0KHR7zBlcQ4dUDCA4",
+        "uact": "5",
+        "oq": "how to compile source code linux foundation",
+        "gs_lcp": "Cgdnd3Mtd2l6EAMyBQghEKABMgUIIRCrAjoHCAAQRxCwAzoECAAQQzoFCAAQgAQ6CggAEIAEEIcCEBQ6BggAEBYQHjoFCAAQhgM6CAghEBYQHRAeSgQIQRgASgQIRhgAUJATWK44YOA4aAFwAXgAgAFYiAG7CZIBAjE2mAEAoAEByAEIwAEB",
+        "sclient": "gws-wiz",
+        "date": "2022-05-06T19:59:38.174Z"
+    },
+    {
+        "title": "Using Open Source Code - Linux Foundation",
+        "url": "https://www.linuxfoundation.org/tools/using-open-source-code/",
+        "date": "2022-05-06T19:59:47.802Z"
+    },
+    {
+        "title": "linux from scratch - Google Search",
+        "url": "https://www.google.com/search?q=linux from scratch",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "oq": "linux from scrat",
+        "aqs": "chrome.0.0i355i433i512j46i433i512j69i57j0i512l7.3216j0j1",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-06T19:59:56.032Z"
+    },
+    {
+        "title": "Welcome to Linux From Scratch!",
+        "url": "https://www.linuxfromscratch.org/",
+        "date": "2022-05-06T19:59:56.555Z"
+    },
+    {
+        "title": "LFS Project Homepage",
+        "url": "https://www.linuxfromscratch.org/lfs/",
+        "date": "2022-05-06T20:00:02.831Z"
+    },
+    {
+        "title": "anal.avr - Google Search",
+        "url": "https://www.google.com/search?q=anal.avr",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "oq": "anal.avr",
+        "aqs": "chrome..69i57.2768j0j1",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-06T20:00:36.749Z"
+    },
+    {
+        "title": "anal.avr make - Google Search",
+        "url": "https://www.google.com/search?q=anal.avr make",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "sxsrf": "ALiCzsYJPXF4ZeE0aqO2atXzzZCQxdivKg:1651867235931",
+        "ei": "Y351Yr--OJDRtAaG3J_oDg",
+        "ved": "0ahUKEwj_-8D-1Mv3AhWQKM0KHQbuB-0Q4dUDCA4",
+        "uact": "5",
+        "oq": "anal.avr make",
+        "gs_lcp": "Cgdnd3Mtd2l6EANKBAhBGAFKBAhGGABQyQhYlwxg9wxoAXAAeACAAUKIAaICkgEBNZgBAKABAcABAQ",
+        "sclient": "gws-wiz",
+        "date": "2022-05-06T20:00:47.887Z"
+    },
+    {
+        "title": "anal - r2wiki",
+        "url": "https://r2wiki.readthedocs.io/en/latest/options/e/values-that-e-can-modify/anal/",
+        "date": "2022-05-06T20:00:50.405Z"
+    },
+    {
+        "title": "Download LFS",
+        "url": "https://www.linuxfromscratch.org/lfs/download.html",
+        "date": "2022-05-06T20:05:52.200Z"
+    },
+    {
+        "title": "LFS Project Homepage",
+        "url": "https://www.linuxfromscratch.org/lfs/",
+        "date": "2022-05-06T20:06:00.560Z"
+    },
+    {
+        "title": "Read LFS Online",
+        "url": "https://www.linuxfromscratch.org/lfs/read.html",
+        "date": "2022-05-06T20:06:02.727Z"
+    },
+    {
+        "title": "LFS Errata",
+        "url": "https://www.linuxfromscratch.org/lfs/errata/stable/",
+        "date": "2022-05-06T20:06:13.662Z"
+    },
+    {
+        "title": "LFS 11.1 Security Advisories",
+        "url": "https://www.linuxfromscratch.org/lfs/advisories/11.1.html",
+        "date": "2022-05-06T20:06:16.337Z"
+    },
+    {
+        "title": "Read LFS Online",
+        "url": "https://www.linuxfromscratch.org/lfs/read.html",
+        "date": "2022-05-06T20:06:32.255Z"
+    },
+    {
+        "title": "Linux From Scratch",
+        "url": "https://www.linuxfromscratch.org/lfs/view/stable/",
+        "date": "2022-05-06T20:06:36.139Z"
+    },
+    {
+        "title": "Foreword",
+        "url": "https://www.linuxfromscratch.org/lfs/view/stable/prologue/foreword.html",
+        "date": "2022-05-06T20:06:50.239Z"
+    },
+    {
+        "title": "Foreword",
+        "url": "https://www.linuxfromscratch.org/lfs/view/stable/prologue/foreword.html",
+        "date": "2022-05-06T20:06:56.959Z"
+    },
+    {
+        "title": "Audience",
+        "url": "https://www.linuxfromscratch.org/lfs/view/stable/prologue/audience.html",
+        "date": "2022-05-06T20:14:18.111Z"
+    },
+    {
+        "title": "LFS Target Architectures",
+        "url": "https://www.linuxfromscratch.org/lfs/view/stable/prologue/architecture.html",
+        "date": "2022-05-06T20:18:08.844Z"
+    },
+    {
+        "title": "Prerequisites",
+        "url": "https://www.linuxfromscratch.org/lfs/view/stable/prologue/prerequisites.html",
+        "date": "2022-05-06T20:21:30.942Z"
+    },
+    {
+        "title": "Building and Installing Software Packages for Linux",
+        "url": "https://tldp.org/HOWTO/Software-Building-HOWTO.html",
+        "date": "2022-05-06T20:22:30.130Z"
+    },
+    {
+        "title": "how to have a directory point to another directory - Google Search",
+        "url": "https://www.google.com/search?q=how to have a directory point to another directory",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "oq": "how to have a directory point to another",
+        "aqs": "chrome.1.69i57j33i160l2j33i299j33i22i29i30.6511j0j1",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-06T20:23:47.670Z"
+    },
+    {
+        "title": "Symlink Tutorial in Linux – How to Create and Remove a Symbolic Link",
+        "url": "https://www.freecodecamp.org/news/symlink-tutorial-in-linux-how-to-create-and-remove-a-symbolic-link/",
+        "date": "2022-05-06T20:23:53.050Z"
+    },
+    {
+        "title": "symlink windows - Google Search",
+        "url": "https://www.google.com/search?q=symlink windows",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "oq": "symlink windows",
+        "aqs": "chrome..69i57j0i512l6j0i20i263i512j0i512l2.1936j0j1",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-06T20:24:56.640Z"
+    },
+    {
+        "title": "The Complete Guide to Creating Symbolic Links (aka Symlinks) on Windows",
+        "url": "https://www.howtogeek.com/howto/16226/complete-guide-to-symbolic-links-symlinks-on-windows-or-linux/",
+        "date": "2022-05-06T20:25:02.952Z"
+    },
+    {
+        "title": "where does xbox game bar save videos - Google Search",
+        "url": "https://www.google.com/search?q=where does xbox game bar save videos",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "oq": "where xbo game bar save ",
+        "aqs": "chrome.1.69i57j0i22i30j0i390l5.6830j0j1",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-06T20:27:30.969Z"
+    },
+    {
+        "title": "How to use the Windows 10 Game Bar to capture video from applications | Dell US",
+        "url": "https://www.dell.com/support/kbdoc/en-us/000103410/how-to-use-the-windows-10-game-bar-to-capture-video-from-applications",
+        "date": "2022-05-06T20:27:32.724Z"
+    },
+    {
+        "title": "obs studio - Google Search",
+        "url": "https://www.google.com/search?q=obs studio",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "oq": "obs studio",
+        "aqs": "chrome..69i57j0i67i433j0i67j0i512j0i67j0i512l4.1328j0j1",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-06T20:30:03.774Z"
+    },
+    {
+        "title": "Open Broadcaster Software | OBS",
+        "url": "https://obsproject.com/",
+        "date": "2022-05-06T20:30:04.729Z"
+    },
+    {
+        "title": "Download | OBS",
+        "url": "https://obsproject.com/download",
+        "date": "2022-05-06T20:30:59.735Z"
+    },
+    {
+        "title": "open soruce software winodws - Google Search",
+        "url": "https://www.google.com/search?q=open soruce software winodws",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "oq": "open soruce software winodws",
+        "aqs": "chrome..69i57j0i13j0i5i13i30l3j0i8i13i30l5.4656j0j4",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-06T20:32:12.731Z"
+    },
+    {
+        "title": "20 Best Open Source Software For Windows",
+        "url": "https://geekflare.com/windows-open-source-apps/",
+        "date": "2022-05-06T20:32:15.054Z"
+    },
+    {
+        "title": "20 Best Open Source Software For Windows",
+        "url": "https://geekflare.com/windows-open-source-apps/",
+        "date": "2022-05-06T20:32:15.506Z"
+    },
+    {
+        "title": "virtualbox no admin - Google Search",
+        "url": "https://www.google.com/search?q=virtualbox no admin",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "oq": "virtualbox no admin",
+        "aqs": "chrome..69i57j0i512j0i22i30l2j0i390l4.2977j0j1",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-06T20:34:08.675Z"
+    },
+    {
+        "title": "Install VirtualBox without Admin rights? - Software Discussion ",
+        " Support - Neowin": "",
+        "url": "https://www.neowin.net/forum/topic/909228-install-virtualbox-without-admin-rights/",
+        "date": "2022-05-06T20:34:11.430Z"
+    },
+    {
+        "title": "Opera USB - Google Search",
+        "url": "https://www.google.com/search?q=Opera USB",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-06T20:34:27.581Z"
+    },
+    {
+        "title": "Opera portable | USB browser | Free download | Opera",
+        "url": "https://www.opera.com/computer/portable",
+        "date": "2022-05-06T20:35:08.765Z"
+    },
+    {
+        "title": "portable software windows 10 - Google Search",
+        "url": "https://www.google.com/search?q=portable software windows 10",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "oq": "portable software windows",
+        "aqs": "chrome.0.0i512j69i57j0i22i30l8.5296j0j1",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-06T20:35:31.279Z"
+    },
+    {
+        "title": "Portable App Directory (over 400 free) - PortableApps.com",
+        "url": "https://portableapps.com/apps",
+        "date": "2022-05-06T20:35:36.677Z"
+    },
+    {
+        "title": "qemu - Google Search",
+        "url": "https://www.google.com/search?q=qemu",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "oq": "qemu",
+        "aqs": "chrome..69i57j35i39j0i67j0i67i433j0i67l6.1022j0j4",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-06T20:38:31.672Z"
+    },
+    {
+        "title": "QEMU",
+        "url": "https://www.qemu.org/",
+        "date": "2022-05-06T20:38:33.184Z"
+    },
+    {
+        "title": "Download QEMU - QEMU",
+        "url": "https://www.qemu.org/download/",
+        "date": "2022-05-06T20:38:35.189Z"
+    },
+    {
+        "title": "python3.6 download - Google Search",
+        "url": "https://www.google.com/search?q=python3.6 download",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "oq": "python3.6 download",
+        "aqs": "chrome.0.0i512l2j0i22i30j0i390.3520j0j1",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-06T20:42:42.972Z"
+    },
+    {
+        "title": "Python Release Python 3.6.0 | Python.org",
+        "url": "https://www.python.org/downloads/release/python-360/",
+        "date": "2022-05-06T20:42:44.173Z"
+    },
+    {
+        "title": "Google",
+        "url": "https://www.google.com/",
+        "date": "2022-05-06T20:46:06.365Z"
+    },
+    {
+        "title": "appdata local temp - Google Search",
+        "url": "https://www.google.com/search?q=appdata local temp",
+        "sxsrf": "ALiCzsaDciyVGZ7vlSZJn4N6H2f35mHDkg:1651869964822",
+        "source": "hp",
+        "ei": "DIl1YqyDLtW1tAawh4H4Cw",
+        "iflsig": "AJiK0e8AAAAAYnWXHMrKaJQbNaE8HxpBafqsjwgD0WtX",
+        "oq": "AppData Loc",
+        "gs_lcp": "Cgdnd3Mtd2l6EAMYADIFCAAQgAQyCAgAEIAEEMkDMgUIABCABDIKCAAQgAQQhwIQFDIFCAAQgAQyCggAEIAEEIcCEBQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEOgQIIxAnOgUIABCRAjoFCC4QkQI6EQguEIAEELEDEIMBEMcBENEDOgsILhCABBDHARCjAjoICC4QsQMQgwE6CwgAEIAEELEDEIMBOg4ILhCABBCxAxDHARDRAzoECAAQQzoKCAAQsQMQgwEQQzoQCC4QsQMQxwEQowIQ1AIQQzoHCAAQsQMQQzoICAAQgAQQsQM6BwgAEMkDEENQAFivIGDwLWgCcAB4AIABTIgBigaSAQIxM5gBAKABAQ",
+        "sclient": "gws-wiz",
+        "date": "2022-05-06T20:46:28.562Z"
+    },
+    {
+        "title": "windows 7 - Is it safe to delete AppData\\Local\\Temp? - Super User",
+        "url": "https://superuser.com/questions/571901/is-it-safe-to-delete-appdata-local-temp",
+        "date": "2022-05-06T20:46:35.293Z"
+    },
+    {
+        "title": "how to override installation process of an appliction - Google Search",
+        "url": "https://www.google.com/search?q=how to override installation process of an appliction",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "oq": "how to override installation process of an appliction",
+        "aqs": "chrome..69i57j33i10i160.8385j0j1",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-06T20:46:48.771Z"
+    },
+    {
+        "title": "change where third party apps install windows 10 - Google Search",
+        "url": "https://www.google.com/search?q=change where third party apps install windows 10",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "sxsrf": "ALiCzsZI1cOxfeflvdOx0PLA0MhhpIrjog:1651870007840",
+        "ei": "N4l1YsLoMsyStAbH1ZOgCg",
+        "oq": "change where third party apps instal",
+        "gs_lcp": "Cgdnd3Mtd2l6EAMYAjIFCCEQoAEyBQghEKABMgUIIRCgATIICCEQFhAdEB4yCAghEBYQHRAeOgcIABBHELADOgQIIxAnOgUIABCRAjoICAAQgAQQsQM6CAgAELEDEIMBOhEILhCABBCxAxCDARDHARDRAzoRCC4QgAQQsQMQgwEQxwEQowI6BAgAEEM6DgguEIAEELEDEMcBENEDOgcIABDJAxBDOgsIABCABBCxAxCDAToICC4QgAQQsQM6BwgAELEDEEM6CggAEIAEEIcCEBQ6BQgAEIAEOg0IABCABBCHAhCxAxAUOgYIABAWEB46BQghEKsCOgUIABCGA0oECEEYAEoECEYYAFCZCFjHM2DIP2gDcAF4AIABaogBlRSSAQQzNC4ymAEAoAEByAEIwAEB",
+        "sclient": "gws-wiz",
+        "date": "2022-05-06T20:47:06.637Z"
+    },
+    {
+        "title": "How to Allow Windows 10 to Download and Install Third-Party Apps on Your Computer? – Help Center",
+        "url": "https://support.clio.com/hc/en-us/articles/360057384334-How-to-Allow-Windows-10-to-Download-and-Install-Third-Party-Apps-on-Your-Computer-",
+        "date": "2022-05-06T20:47:10.862Z"
+    },
+    {
+        "title": "gog galaxy github - Google Search",
+        "url": "https://www.google.com/search?q=gog galaxy github",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "oq": "gog galaxy git",
+        "aqs": "chrome.0.0i512j69i57j0i22i30j0i390l3j69i64.2080j0j1",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-06T20:49:13.148Z"
+    },
+    {
+        "title": "Mixaill/awesome-gog-galaxy: A list of GOG Galaxy 2.0 integrations and upcoming features",
+        "url": "https://github.com/Mixaill/awesome-gog-galaxy",
+        "date": "2022-05-06T20:49:16.658Z"
+    },
+    {
+        "title": "gog galaxy github - Google Search",
+        "url": "https://www.google.com/search?q=gog galaxy github",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "oq": "gog galaxy git",
+        "aqs": "chrome.0.0i512j69i57j0i22i30j0i390l3j69i64.2080j0j1",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-06T20:49:40.261Z"
+    },
+    {
+        "title": "GOG.com",
+        "url": "https://github.com/gogcom",
+        "date": "2022-05-06T20:49:42.460Z"
+    },
+    {
+        "title": "gog galaxy github - Google Search",
+        "url": "https://www.google.com/search?q=gog galaxy github",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "oq": "gog galaxy git",
+        "aqs": "chrome.0.0i512j69i57j0i22i30j0i390l3j69i64.2080j0j1",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-06T20:50:02.915Z"
+    },
+    {
+        "title": "why programs install to temp folder - Google Search",
+        "url": "https://www.google.com/search?q=why programs install to temp folder",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "sxsrf": "ALiCzsY8uGGvpMcJWoglrOXLoVVRJ170pQ:1651870152042",
+        "ei": "yIl1YvGbAtu7tQb16ZWABw",
+        "ved": "0ahUKEwjxn4Lt38v3AhXbXc0KHfV0BXAQ4dUDCA4",
+        "uact": "5",
+        "oq": "why programs install to temp folder",
+        "gs_lcp": "Cgdnd3Mtd2l6EAMyBQghEKABMgUIIRCrAjIFCCEQqwI6BwgjELADECc6BwgAEEcQsAM6BAgjECc6BQgAEJECOgsIABCABBCxAxCDAToICC4QgAQQsQM6EQguEIAEELEDEIMBEMcBEKMCOgsILhCABBCxAxCDAToECAAQQzoFCAAQgAQ6CAgAELEDEIMBOggIABCABBCxAzoHCAAQsQMQCjoECAAQCjoFCC4QgAQ6BggAEBYQHjoICAAQFhAKEB46BQgAEIYDOggIIRAWEB0QHkoECEEYAEoECEYYAFCRCliBJ2DQJ2gDcAF4AIABkQGIAYIVkgEEMzQuMZgBAKABAcgBCcABAQ",
+        "sclient": "gws-wiz",
+        "date": "2022-05-06T20:50:12.462Z"
+    },
+    {
+        "title": "File installations and temp folder issue. - Microsoft Community",
+        "url": "https://answers.microsoft.com/en-us/windows/forum/all/file-installations-and-temp-folder-issue/611ae1ff-a9eb-474b-b792-c5081a5bd554",
+        "date": "2022-05-06T20:50:15.748Z"
+    },
+    {
+        "title": "install python3.6 scoop - Google Search",
+        "url": "https://www.google.com/search?q=install python3.6 scoop",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "oq": "install python3.6 scoop",
+        "aqs": "chrome..69i57j33i160l4.3792j1j1",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-06T20:51:47.867Z"
+    },
+    {
+        "title": "Issue with python package · Issue #2612 · ScoopInstaller/Scoop",
+        "url": "https://github.com/ScoopInstaller/Scoop/issues/2612",
+        "date": "2022-05-06T20:51:49.850Z"
+    },
+    {
+        "title": "install python3.6 scoop - Google Search",
+        "url": "https://www.google.com/search?q=install python3.6 scoop",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "oq": "install python3.6 scoop",
+        "aqs": "chrome..69i57j33i160l4.3792j1j1",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-06T20:52:16.691Z"
+    },
+    {
+        "title": "scoop install specific python version Code Example",
+        "url": "https://www.codegrepper.com/code-examples/python/scoop install specific python version",
+        "date": "2022-05-06T20:52:24.023Z"
+    },
+    {
+        "title": "install python3.6 scoop - Google Search",
+        "url": "https://www.google.com/search?q=install python3.6 scoop",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "oq": "install python3.6 scoop",
+        "aqs": "chrome..69i57j33i160l4.3792j1j1",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-06T20:52:33.873Z"
+    },
+    {
+        "title": "How to install python3-scoop ubuntu package on Ubuntu 20.04/Ubuntu 18.04/Ubuntu 19.04/Ubuntu 16.04",
+        "url": "https://zoomadmin.com/HowToInstall/UbuntuPackage/python3-scoop",
+        "date": "2022-05-06T20:52:38.721Z"
+    },
+    {
+        "title": "install python3.6 scoop - Google Search",
+        "url": "https://www.google.com/search?q=install python3.6 scoop",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "oq": "install python3.6 scoop",
+        "aqs": "chrome..69i57j33i160l4.3792j1j1",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-06T20:52:44.280Z"
+    },
+    {
+        "title": "scoop documentation - Google Search",
+        "url": "https://www.google.com/search?q=scoop documentation",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "sxsrf": "ALiCzsZS4Fh5hbe27GUYRsA_6_QtbNAsSQ:1651870306864",
+        "ei": "Yop1YtWuNLXc9AP4kKygCA",
+        "oq": "scoop doc",
+        "gs_lcp": "Cgdnd3Mtd2l6EAMYATIKCAAQgAQQhwIQFDIFCAAQgAQyBQgAEIAEMgUIABCABDIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjoHCCMQsAMQJzoHCAAQRxCwAzoECCMQJzoHCC4Q1AIQQzoFCAAQkQI6DgguEIAEELEDEMcBENEDOgsIABCABBCxAxCDAToECAAQQzoECC4QQzoOCC4QgAQQsQMQgwEQ1AI6BwgAELEDEEM6DQguELEDEIMBENQCEEM6CwguEIAEEMcBEK8BOg4ILhCxAxCDARDHARCvAToFCC4QgAQ6BwguELEDEAo6CAguEIAEENQCOggIABAWEAoQHjoFCCEQoAFKBAhBGABKBAhGGABQ7AhYqSFg2ShoB3ABeACAAYkBiAHmCJIBBDEwLjOYAQCgAQHIAQnAAQE",
+        "sclient": "gws-wiz",
+        "date": "2022-05-06T20:52:53.001Z"
+    },
+    {
+        "title": "Introduction | Scoop",
+        "url": "https://scoop-docs.vercel.app/docs/",
+        "date": "2022-05-06T20:52:53.871Z"
+    },
+    {
+        "title": "why can't gitbash find python - Google Search",
+        "url": "https://www.google.com/search?q=why can't gitbash find python",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "oq": "why can't gitbash find python",
+        "aqs": "chrome..69i57j33i10i160l2j33i22i29i30.4127j0j1",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-06T20:54:28.729Z"
+    },
+    {
+        "title": "windows - Git Bash won't run my python files? - Stack Overflow",
+        "url": "https://stackoverflow.com/questions/22869192/git-bash-wont-run-my-python-files",
+        "date": "2022-05-06T20:54:30.788Z"
+    },
+    {
+        "title": "how to change python version git bash - Google Search",
+        "url": "https://www.google.com/search?q=how to change python version git bash",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "oq": "how to change python version git bash",
+        "aqs": "chrome..69i57j0i22i30j0i390l3.6081j0j1",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-06T20:57:08.457Z"
+    },
+    {
+        "title": "How to change python version in windows git bash? - Stack Overflow",
+        "url": "https://stackoverflow.com/questions/32965980/how-to-change-python-version-in-windows-git-bash",
+        "date": "2022-05-06T20:57:16.239Z"
+    },
+    {
+        "title": "how to change python version git bash - Google Search",
+        "url": "https://www.google.com/search?q=how to change python version git bash",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "oq": "how to change python version git bash",
+        "aqs": "chrome..69i57j0i22i30j0i390l3.6081j0j1",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-06T20:58:32.207Z"
+    },
+    {
+        "title": "How do I specify which version of Python I want in Git Bash? - Get Help / Python - Codecademy Forums",
+        "url": "https://discuss.codecademy.com/t/how-do-i-specify-which-version-of-python-i-want-in-git-bash/429807",
+        "date": "2022-05-06T20:58:36.360Z"
+    },
+    {
+        "title": "how to change python version git bash - Google Search",
+        "url": "https://www.google.com/search?q=how to change python version git bash",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "oq": "how to change python version git bash",
+        "aqs": "chrome..69i57j0i22i30j0i390l3.6081j0j1",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-06T20:58:56.961Z"
+    },
+    {
+        "title": "How do I update python in Git bash? – QuickAdviser",
+        "url": "https://quick-adviser.com/how-do-i-update-python-in-git-bash/",
+        "date": "2022-05-06T20:59:08.841Z"
+    },
+    {
+        "title": "add chnages to .bashrc - Google Search",
+        "url": "https://www.google.com/search?q=add chnages to .bashrc",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "oq": "add chnages to .bashrc",
+        "aqs": "chrome..69i57j33i10i160j33i10i22i29i30l8.7154j0j1",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-06T20:59:48.120Z"
+    },
+    {
+        "title": "linux - how to make changes in .bashrc effective in current terminal - Stack Overflow",
+        "url": "https://stackoverflow.com/questions/16850817/how-to-make-changes-in-bashrc-effective-in-current-terminal",
+        "date": "2022-05-06T20:59:49.698Z"
+    },
+    {
+        "title": "gnu cc - Google Search",
+        "url": "https://www.google.com/search?q=gnu cc",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "oq": "gnu cc",
+        "aqs": "chrome..69i57j69i59j35i39j0i20i263i512j0i67i131i433j46i433i512j0i512j0i67j0i433i512j0i131i433i512.3504j0j1",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-06T21:04:00.849Z"
+    },
+    {
+        "title": "cc linux - Google Search",
+        "url": "https://www.google.com/search?q=cc linux",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "sxsrf": "ALiCzsZDT8M9Yf3G3oac5Fp-WrPrL9_wBg:1651871039578",
+        "ei": "P411Yv_4ItSU0PEPgeiAqAI",
+        "ved": "0ahUKEwi_lJ2U48v3AhVUCjQIHQE0ACUQ4dUDCA4",
+        "uact": "5",
+        "oq": "cc linux",
+        "gs_lcp": "Cgdnd3Mtd2l6EAMyBQgAEJECMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMggIABAWEAoQHjIGCAAQFhAeMgYIABAWEB46BwgAEEcQsAM6BwgAELADEEM6BwgjEOoCECc6BAgjECc6BAgAEEM6BwgAELEDEEM6CggAEIAEEIcCEBQ6CwgAEIAEELEDEIMBOgUIABCABDoKCC4QxwEQ0QMQQzoHCAAQgAQQCjoICAAQgAQQsQM6CgguELEDEIMBEENKBAhBGABKBAhGGABQ7wdY3htgzxxoCHABeACAAViIAbwEkgEBOJgBAKABAbABCsgBCsABAQ",
+        "sclient": "gws-wiz",
+        "date": "2022-05-06T21:04:10.664Z"
+    },
+    {
+        "title": "cc qemu - Google Search",
+        "url": "https://www.google.com/search?q=cc qemu",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "sxsrf": "ALiCzsYIJl3bOSf3vJOhtK410bfarMh5Bg:1651871049406",
+        "ei": "SY11Yu64GKLP0PEP8fmB4AI",
+        "ved": "0ahUKEwiugfWY48v3AhWiJzQIHfF8ACwQ4dUDCA4",
+        "uact": "5",
+        "oq": "cc qemu",
+        "gs_lcp": "Cgdnd3Mtd2l6EAMyBggAEBYQHjIFCAAQhgMyBQgAEIYDMgUIABCGAzoHCAAQRxCwAzoFCAAQgAQ6BAgAEEM6CAgAEBYQChAeSgQIQRgASgQIRhgAUOsNWMkSYJkUaANwAXgAgAF1iAHWApIBAzMuMZgBAKABAcgBCMABAQ",
+        "sclient": "gws-wiz",
+        "date": "2022-05-06T21:06:22.967Z"
+    },
+    {
+        "title": "qemu - QBox configuration error: unable to find \"cc\" - Stack Overflow",
+        "url": "https://stackoverflow.com/questions/53302328/qbox-configuration-error-unable-to-find-cc",
+        "date": "2022-05-06T21:06:25.431Z"
+    },
+    {
+        "title": "pkg-config not found - Google Search",
+        "url": "https://www.google.com/search?q=pkg-config not found",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "oq": "pkg-config not found",
+        "aqs": "chrome..69i57j0i20i263i512j0i512j0i20i263i512j0i512l6.4352j0j1",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-06T21:07:41.645Z"
+    },
+    {
+        "title": "linux - Cannot find pkg-config error - Stack Overflow",
+        "url": "https://stackoverflow.com/questions/23202146/cannot-find-pkg-config-error",
+        "date": "2022-05-06T21:07:43.296Z"
+    },
+    {
+        "title": "pkg-config not found - Google Search",
+        "url": "https://www.google.com/search?q=pkg-config not found",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "oq": "pkg-config not found",
+        "aqs": "chrome..69i57j0i20i263i512j0i512j0i20i263i512j0i512l6.4352j0j1",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-06T21:07:52.492Z"
+    },
+    {
+        "title": "pkg-config git bash - Google Search",
+        "url": "https://www.google.com/search?q=pkg-config git bash",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "sxsrf": "ALiCzsbo84igoJmvtOFfdqShd7fZkXvExA:1651871260555",
+        "ei": "HI51YtO-If6q0PEP_5CPgAo",
+        "ved": "0ahUKEwjTvMz948v3AhV-FTQIHX_IA6AQ4dUDCA4",
+        "uact": "5",
+        "oq": "pkg-config git bash",
+        "gs_lcp": "Cgdnd3Mtd2l6EAMyBggAEBYQHjIFCAAQhgMyBQgAEIYDMgUIABCGAzIFCAAQhgMyBQgAEIYDOgcIABBHELADOgcIABCwAxBDOgQIIxAnOgQIABBDOgUIABCABDoFCAAQkQI6CggAEIAEEIcCEBQ6CAgAEBYQChAeSgQIQRgASgQIRhgAUOUUWNkiYIkkaANwAXgAgAGGAYgBxAaSAQM2LjOYAQCgAQHIAQrAAQE",
+        "sclient": "gws-wiz",
+        "date": "2022-05-06T21:07:58.549Z"
+    },
+    {
+        "title": "How to install pkg config in windows? - Stack Overflow",
+        "url": "https://stackoverflow.com/questions/1710922/how-to-install-pkg-config-in-windows",
+        "date": "2022-05-06T21:08:00.329Z"
+    },
+    {
+        "title": "what all do I need to compile qemu - Google Search",
+        "url": "https://www.google.com/search?q=what all do I need to compile qemu",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "oq": "what all do I need to compile qemu",
+        "aqs": "chrome..69i57j33i160.5216j0j1",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-06T21:08:14.217Z"
+    },
+    {
+        "title": "compile qemu windows - Google Search",
+        "url": "https://www.google.com/search?q=compile qemu windows",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "sxsrf": "ALiCzsazeJBXDpFOi94ZzwdLjz2nVe04oQ:1651871293318",
+        "ei": "PY51YsqGE8my0PEPjPCDgAM",
+        "ved": "0ahUKEwiKmZyN5Mv3AhVJGTQIHQz4ADAQ4dUDCA4",
+        "uact": "5",
+        "oq": "compile qemu windows",
+        "gs_lcp": "Cgdnd3Mtd2l6EAMyBQgAEIAEMgYIABAWEB4yBQgAEIYDMgUIABCGAzIFCAAQhgMyBQgAEIYDOgcIABBHELADOgQIIxAnOgQIABBDOgUIABCRAjoICAAQgAQQsQM6CAgAELEDEIMBOhEILhCABBCxAxCDARDHARDRAzoRCC4QgAQQsQMQgwEQxwEQowI6DgguEIAEELEDEMcBEKMCOgoIABCxAxCDARBDOg4ILhCABBCxAxDHARDRAzoLCAAQgAQQsQMQgwE6BwgAELEDEEM6CggAEIAEEIcCEBQ6CAgAEBYQChAeSgQIQRgASgQIRhgAULgIWPQeYNUfaARwAXgAgAFfiAHICpIBAjIxmAEAoAEByAEIwAEB",
+        "sclient": "gws-wiz",
+        "date": "2022-05-06T21:08:22.683Z"
+    },
+    {
+        "title": "\\mingw64.exe - Google Search",
+        "url": "https://www.google.com/search?q=\\mingw64.exe",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-06T21:08:37.746Z"
+    },
+    {
+        "title": "MinGW-w64",
+        "url": "https://www.mingw-w64.org/",
+        "date": "2022-05-06T21:08:40.113Z"
+    },
+    {
+        "title": "Compile QEMU under Windows 10 (64-bit) for Windows 10 (64-bit) - Stack Overflow",
+        "url": "https://stackoverflow.com/questions/53084815/compile-qemu-under-windows-10-64-bit-for-windows-10-64-bit",
+        "date": "2022-05-06T21:08:59.329Z"
+    },
+    {
+        "title": "86832 – [8 Regression] GCC v8.2.0 tries to use native TLS with -fstack-protector-strong on Windows (mingw-w64)",
+        "url": "https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86832",
+        "date": "2022-05-06T21:10:01.716Z"
+    },
+    {
+        "title": "Re: [Qemu-devel] Bugs when cross-compiling qemu for Windows with mingw 8.1, executable doesn't run",
+        "url": "https://www.mail-archive.com/qemu-devel@nongnu.org/msg557409.html",
+        "date": "2022-05-06T21:10:02.511Z"
+    },
+    {
+        "title": "Index of /distrib/",
+        "url": "https://repo.msys2.org/distrib/",
+        "date": "2022-05-06T21:10:52.270Z"
+    },
+    {
+        "title": "Index of /distrib/x86_64/",
+        "url": "https://repo.msys2.org/distrib/x86_64/",
+        "date": "2022-05-06T21:11:31.653Z"
+    },
+    {
+        "title": "qemu windows binaries - Google Search",
+        "url": "https://www.google.com/search?q=qemu windows binaries",
+        "rlz": "1C1GCEA_enUS1004US1004",
+        "oq": "qemu windows binar",
+        "aqs": "chrome.0.0i512j69i57j0i390l3.3472j0j1",
+        "sourceid": "chrome",
+        "ie": "UTF-8",
+        "date": "2022-05-06T21:13:44.529Z"
+    },
+    {
+        "title": "Download QEMU - QEMU",
+        "url": "https://www.qemu.org/download/",
+        "date": "2022-05-06T21:13:46.457Z"
+    },
+    {
+        "title": "QEMU for Windows – Installers (64 bit)",
+        "url": "https://qemu.weilnetz.de/w64/",
+        "date": "2022-05-06T21:13:58.385Z"
+    },
+    {
+        "title": "QEMU for Windows – Installers (64 bit)",
+        "url": "https://qemu.weilnetz.de/w64/2022/",
+        "date": "2022-05-06T21:14:01.426Z"
     }
 ]
