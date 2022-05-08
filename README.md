@@ -1,5 +1,11 @@
 # cors-server
 
+Sun, May 8, 2022 5:46:25 PM
+
+I've figured out that I've been going about this all wrong! What I need to do is deploy my app on a Heroku or some other platform. However I've got to resolve the whole not secure issue on Google.
+
+So what I'm going to do is write a very simple version of my application that can be deployed to heroku.
+
 Tue, May 3, 2022 7:47:10 PM
 
 - I also want to be able to highlight my text

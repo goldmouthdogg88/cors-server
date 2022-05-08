@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "..\\cors-client"
+	},
+	{
+		"path": "..\\chrome-extension"
+	}
+],
+  "settings": {}
+}
